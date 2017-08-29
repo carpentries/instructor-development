@@ -1,0 +1,17 @@
+Software and Data Carpentry Pre-Workshop Discussions
+
+Dear instructors,
+
+If you are receiving this message, you are scheduled to teach a Software or Data Carpentry workshop over the next several weeks.
+
+The Software Carpentry mentoring committee hosts discussion sessions every week to share ideas and experiences among instructors.  If you have any questions or concerns about your upcoming workshop, or are interested in chatting with other instructors about your or their own experiences teaching Software/Data Carpentry, we encourage you to attend!  
+
+Upcoming discussions will occur on [Date 1], [Date 2] and [Date 3].  Each date has two time slots to accommodate time zones.  You can sign up for the most convenient time on this etherpad: 
+
+    http://pad.software-carpentry.org/instructor-discussion
+
+We hope to see you in the next few weeks!  
+
+Cheers,
+[Your name]
+Software/Data Carpentry Mentoring Committee

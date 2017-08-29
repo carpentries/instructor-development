@@ -1,0 +1,13 @@
+Greetings, all!  
+
+This is an invitation to contribute to the Software and Data Carpentry communities in a very low-time-commitment, lots-of-fun way!  
+
+The mentoring committee runs weekly discussion sessions for Software/Data Carpentry instructors and we welcome you to participate as a general participant or co-host.  The discussions are centered around preparing lessons and debriefing how workshops went, but often expand to include general sharing of teaching tips, tricks and ideas.  Discussions are an hour long, require no work outside that hour, and you can sign up as frequently or infrequently as you like.  
+
+[Optional: We know that this group of people may still want to be involved with Software/Data Carpentry, but not have time in your current schedules to teach at a full 2-day workshop or contribute more actively.  If so, this is a great way to keep participating in the community! ]
+
+I've hosted several discussions over the past few months, and have always found it a lot of fun.  Even on days when I think "I'm so busy, why did I sign up for today?", I always leave the discussion thinking that it was enjoyable and worthwhile.  (See twitter for verification: https://twitter.com/_christinaLK/status/742748905947967488.  :))
+
+To sign up, just go to this etherpad and enter your name on a date/time that works for you: 
+* https://pad.software-carpentry.org/instructor-discussion
+Hope to see many of you soon!  
