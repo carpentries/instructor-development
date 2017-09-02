@@ -40,7 +40,7 @@ I would like to:
 	- Sign up for the mentoring program by contacting Erin Becker (ebecker@datacarpentry.org)
 - discuss workshop experiences with other instructors OR
 - ask questions of other instructors as I prepare to teach
-	- Attend an instructor discussion session by signing up on [this etherpad][meetings].
+	- Attend an instructor discussion session by signing up on [this etherpad][discussion].
 - help lead discussion sessions among instructors
 	- Join the [discussion host mailing list][host-mailing-list] and sign up to host, co-host, or observe 
 	a discussion on [this etherpad][discussion]
