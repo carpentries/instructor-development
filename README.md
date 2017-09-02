@@ -48,7 +48,7 @@ I would like to:
 - join the mentoring committee
 	- Sign up for the mentoring committee [mailing list][comm-mailing-list] and attend the next mentoring committee meeting (scheduled on [this etherpad][meetings])
 
-For a complete summary of different mentoring roles, see [this page](roles.md).  
+For a complete summary of different mentoring roles, see [this page](roles/README.md).  
 
 ## Steering Committee Liaison
 
