@@ -61,7 +61,7 @@ There is currently no set meeting time.
 
 When creating a new event or updating a old one.
 
-![Calendar event steps](img/calendar-event.png)
+![Calendar event steps](/img/calendar-event.png)
 
 1. Set the name of the event or meeting.
 
@@ -85,4 +85,4 @@ When creating a new event or updating a old one.
    For discussion sessions those are all the instructors that you invited.
 
 [repository]: https://github.com/swcarpentry/board/
-[minutes-repository]: https://github.com/swcarpentry/board/tree/master/subcommittee/mentoring/
+[minutes-repository]: https://github.com/carpentries/mentoring/minutes
