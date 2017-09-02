@@ -26,7 +26,7 @@ Attendance spreadsheet is here: [link forthcoming]()
 
 Board repository is here: [https://github.com/swcarpentry/board/](https://github.com/swcarpentry/board/)
 
-Mentoring committee materials are here [https://github.com/swcarpentry/board/tree/master/subcommittees/mentoring](https://github.com/swcarpentry/board/tree/master/subcommittees/mentoring)
+Mentoring committee documents are located in [Carpentries organisation](https://github.com/carpentries) in its own [repository](/)
 
 ### Submitting meeting minutes
 
