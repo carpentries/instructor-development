@@ -67,7 +67,7 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 * Erin Becker
 * Tobin Magle
 * Mark Laufersweiler
-* Mateusz Kuzak
+* Mateusz Kuzak (@mkuzak, [@matkuzak](https://twitter.com/matkuzak))
 
 ## Past Members
 
