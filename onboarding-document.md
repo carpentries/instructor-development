@@ -1,21 +1,21 @@
 ### Onboarding: Mentoring Committee     
     
 #### Topics Covered (click on topics to go to that section)
-* [Mission Statement](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#mission-statement)
-* [What does the mentoring committee do?](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#what-does-the-mentoring-committee-do)
-* [2017 Mentoring committee Positions](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#2017-mentoring-committee-positions)
-* [Joining the conversation](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#joining-the-conversation)
-* [Mentoring Committee Meetings](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#mentoring-committee-meetings)
-* [Attending a mentoring committee meeting](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#attending-a-mentoring-committee-meeting)
-* [Instructor Discussion Sessions](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#instructor-discussion-sessions)
-* [Instructor Discussions: Host Expectations](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#host-expectations)	
+* [Mission Statement](#mission-statement)
+* [What does the mentoring committee do?](#what-does-the-mentoring-committee-do)
+* [2017 Mentoring committee Positions](#2017-mentoring-committee-positions)
+* [Joining the conversation](#joining-the-conversation)
+* [Mentoring Committee Meetings](#mentoring-committee-meetings)
+* [Attending a mentoring committee meeting](#attending-a-mentoring-committee-meeting)
+* [Instructor Discussion Sessions](#instructor-discussion-sessions)
+* [Instructor Discussions: Host Expectations](#host-expectations)	
   * Expectations for hosts	
   * Checklist for hosts in sessions	
   * Signing up to host a discussion
   * Before the discussion
   * Hosting the discussion session
   * After the discussion session
-* [Instructor Discussions: Co-Host Expectations](https://github.com/swcarpentry/board/new/master/subcommittees/mentoring#co-host-expectations)
+* [Instructor Discussions: Co-Host Expectations](#co-host-expectations)
   * Expectations for co-hosts/notetakers	
   * Checklist for co-hosts/notetakers in sessions	
   * Signing up to co-host a discussion session
@@ -71,7 +71,7 @@ Meets as a committee once a month.
 * Mailing list for the mentoring committee: mentoring@lists.software-carpentry.org
 * Getting access to mailman / logging in / pretty much everything to do with this list server can be done here:  http://lists.software-carpentry.org/listinfo/mentoring
 * Mentoring etherpad: http://pad.software-carpentry.org/scf-mentoring
-* Meeting Minutes: https://github.com/swcarpentry/board/tree/master/subcommittees/mentoring/minutes 
+* Meeting Minutes: [minutes](minutes directory) 
 * Community Calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com 
 
 #### Mentoring Committee Meetings
@@ -96,7 +96,7 @@ Meets as a committee once a month.
     * Participate! :) If you are new to the committee we strongly encourage you to share your ideas/opinions! Your experience is extremely valuable to us.
     * If the secretary is gone - please help out by taking notes in the etherpad!
 * **After the meeting**
-  * The secretary will post minutes on the GitHub repo (https://github.com/swcarpentry/board/tree/master/subcommittees/mentoring/minutes)  
+  * The secretary will post minutes on the [GitHub repo](minutes) 
 
 ---
 ### Instructor Discussion Sessions
