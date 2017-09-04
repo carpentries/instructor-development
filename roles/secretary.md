@@ -22,8 +22,6 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 ## Resources and Checklists
 
-Attendance spreadsheet is here: [link forthcoming]()
-
 Board repository is here: [https://github.com/swcarpentry/board/](https://github.com/swcarpentry/board/)
 
 Mentoring committee documents are located in [Carpentries organisation](https://github.com/carpentries) in its own [repository](/)
