@@ -85,4 +85,4 @@ When creating a new event or updating a old one.
    For discussion sessions those are all the instructors that you invited.
 
 [repository]: https://github.com/swcarpentry/board/
-[minutes-repository]: https://github.com/carpentries/mentoring/minutes
+[minutes-repository]: https://github.com/carpentries/mentoring/tree/master/minutes
