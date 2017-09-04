@@ -21,10 +21,7 @@ The primary responsibilities of the Discussion Session Coordinators are:
 - Join the mentoring committee, be present for February election
 
 ## Resources and Checklists
-
-Board repository is here: [https://github.com/swcarpentry/board/](https://github.com/swcarpentry/board/)
-
-Mentoring committee documents are located in [Carpentries organisation](https://github.com/carpentries) in its own [repository](/)
+Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
 
 ### Submitting meeting minutes
 
