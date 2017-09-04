@@ -31,5 +31,5 @@ Mentoring committee documents are located in [Carpentries organisation](https://
 - [ ] After each meeting, star the etherpad. You will find this option on the top
    right of the etherpad.
 - [ ] Convert meeting minutes to a markdown file named `minutes-YYYY-MM-DD.md`,
- saved in `board > subcommittee > mentoring > minutes`.  
+ saved in `mentoring > minutes`.  
 - [ ] Submit as a pull request
