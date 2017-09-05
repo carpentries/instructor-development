@@ -37,7 +37,7 @@ I would like to:
 
 - join a small group to receive mentoring from experienced instructors OR
 - mentor new instructors
-	- Sign up for the mentoring program by contacting Erin Becker (ebecker@datacarpentry.org)
+	- Sign up for the mentoring program by contacting Kari L. Jordan (kariljordan@carpentries.org)
 - discuss workshop experiences with other instructors OR
 - ask questions of other instructors as I prepare to teach
 	- Attend an instructor discussion session by signing up on [this etherpad][discussion].
