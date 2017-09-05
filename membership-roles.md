@@ -9,7 +9,7 @@ There are multiple ways to be involved with the mentoring committee and its acti
 Any SWC/DC community member can participate in mentoring committee activities in 
 the following ways: 
 
-* [Discussion Session Participant](./)
+* [Discussion Session Participant](roles/discussion-participants.md)
 	- Join a discussion about teaching workshops.  
 * [Discussion Session Host/Co-Host](roles/discussion-hosts.md)
 	- Lead a discussion among fellow instructors about recent or upcoming workshops. 
