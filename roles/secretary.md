@@ -21,17 +21,12 @@ The primary responsibilities of the Discussion Session Coordinators are:
 - Join the mentoring committee, be present for February election
 
 ## Resources and Checklists
-
-Attendance spreadsheet is here: [link forthcoming]()
-
-Board repository is here: [https://github.com/swcarpentry/board/](https://github.com/swcarpentry/board/)
-
-Mentoring committee materials are here [https://github.com/swcarpentry/board/tree/master/subcommittees/mentoring](https://github.com/swcarpentry/board/tree/master/subcommittees/mentoring)
+Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
 
 ### Submitting meeting minutes
 
 - [ ] After each meeting, star the etherpad. You will find this option on the top
    right of the etherpad.
 - [ ] Convert meeting minutes to a markdown file named `minutes-YYYY-MM-DD.md`,
- saved in `board > subcommittee > mentoring > minutes`.  
+ saved in `mentoring > minutes`.  
 - [ ] Submit as a pull request

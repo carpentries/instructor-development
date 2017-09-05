@@ -53,7 +53,7 @@ Email invitations should be sent to three groups of instructors:
 - instructors who are preparing to teach in the next 4 weeks
 
 - folks who have recently completed instructor training and need to
-  attend a discussion session to complete their [checkout](http://swcarpentry.github.io/instructor-training//11-checkout/)
+  attend a discussion session to complete their [checkout](https://swcarpentry.github.io/instructor-training/checkout/)
 
 The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
 The chair of the mentoring subcommittee, as well as all members of the SCF Steering committee, 
