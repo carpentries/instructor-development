@@ -68,6 +68,7 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 * Tobin Magle
 * Mark Laufersweiler
 * Mateusz Kuzak (@mkuzak, [@matkuzak](https://twitter.com/matkuzak))
+* Juan Steyn (@juansteyn, [@juansteyn](https://twitter.com/juansteyn))
 
 ## Past Members
 
