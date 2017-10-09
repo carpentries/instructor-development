@@ -55,19 +55,26 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 * Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 
 ## Current Members
-
-* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
-* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
-* Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
-* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
-* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
+(in alphabetical order)
+* Erin Becker (@erinsbecker)
+* Jonah Duckles (@jduckles)
+* Chris Hamm (@butterflyology)
 * Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
-* Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
-* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
-* Erin Becker
-* Tobin Magle
-* Mark Laufersweiler
+* Kate Hertweck (@k8hertweck, [@k8hert](https://twitter.com/k8hert))
+* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
 * Mateusz Kuzak (@mkuzak, [@matkuzak](https://twitter.com/matkuzak))
+* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
+* Mark Laufersweiler 
+* Tobin Magle (@tobinmagle)
+* Paula Andrea Martinez (@orchid00)
+* Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
+* Pariksheet Nanda
+* Maneesha Sane (@maneeshasane)
+* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
+* Raniere Silva (@rgaiacs)
+* Juan Steyn (@JuanSteyn)
+* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
+* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
 
 ## Past Members
 
