@@ -50,35 +50,51 @@ I would like to:
 
 For a complete summary of different mentoring roles, see [this page](roles.md).  
 
+
+## Training Committee Liaison
+
+* Erin Becker
+
 ## Steering Committee Liaison
 
 * Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
+* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
 
 ## Current Members
 
-* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
-* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
-* Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
-* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
-* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
-* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
-* Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
-* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
 * Erin Becker
-* Tobin Magle
-* Mark Laufersweiler
+* Jonah Duckles
+* Jamie Hadwin (Co-chair)
+* Chris Hamm
+* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
+* Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
+* Toby Hodges (Secretary, @tobyhodges, [@tbyhdgs](https://twitter.com/tbyhdgs))
+* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
 * Mateusz Kuzak (@mkuzak, [@matkuzak](https://twitter.com/matkuzak))
+* Mark Laufersweiler
+* Tobin Magle
+* Paula Andrea Martinez
+* Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
+* Maneesha Sane
+* Marian Schmidt (Co-chair, @marschmi, [@micro_marian](https://twitter.com/micro_marian))
+* Raniere Silva
+* Juan Steyn
+* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
+* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
+
+_* membership list based on attendance of ≥2 subcommittee meetings since October 2016._
 
 ## Past Members
 
-* Sheldon McKay (@mckays630)
-* Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
-* Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
-* Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
-* Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
 * Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
+* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
+* Sheldon McKay (@mckays630)
+* Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
 * Mariela Perignon (@mperignon)
+* Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
 * Michael Sarahan (@msarahan)
+* Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
+* Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
