@@ -84,17 +84,6 @@ For a complete summary of different mentoring roles, see [this page](roles/READM
 
 _* membership list based on attendance of ≥2 subcommittee meetings since October 2016._
 
-## Past Members
-
-* Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
-* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
-* Sheldon McKay (@mckays630)
-* Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
-* Mariela Perignon (@mperignon)
-* Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
-* Michael Sarahan (@msarahan)
-* Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
-* Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
