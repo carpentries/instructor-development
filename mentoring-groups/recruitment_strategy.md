@@ -1,12 +1,25 @@
 # Mentoring Groups Recruitment Strategy
-The inaugrual mentoring groups were developed by [Erin Becker](https://github.com/ErinBecker). The strategy below was outline by [Kari L. Jordan](https://github.com/kariljordan) in the Fall of 2017.
+The inaugrual mentoring groups were developed and piloted in January 2017 by [Erin Becker](https://github.com/ErinBecker). The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljordan) in the Fall of 2017, and the second round of mentoring groups ran October 2017 through January 2018.
 
-## About
+See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for more information about how we transitioned the mentoring groups from its pilot phase.
+
+## Outline
 + Mentoring Groups [Outline](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md)
 
 ## Strategy
 + **Recruitment**
+  + Mentoring groups are open to any individual having gone through the [Carpentries instructor training](https://carpentries.github.io/instructor-training/).
+  + Individuals having taught zero to two workshops are welcomed to be mentees.
+  + Individuals having taught three or more workshops are welcomed to lead mentoring groups as mentors.
++ **Activities & Timing**
   + Mentoring groups are run between 8 and 12 weeks.
+  + Kari Jordan will hold a mentoring groups touch base with mentors half way through the 8-12 week period.
+  + A survey will be administered to mentors and mentees half way through the 8-12 week period.
+  + The 8-12 week period will end with a virtual showcase.
++ **Exposure**
+  + A mentoring page will be added to Data/Software Carpentry's website with information for how to join a mentoring group.
+  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, per the discretion of Kari Jordan.
+  + The Mentoring Subcommittee will be instrumental in getting the word out about mentoring groups.
 
 ## E-mail Templates
 ### Recruiting mentors
