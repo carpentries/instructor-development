@@ -12,11 +12,11 @@ Each week, volunteers host two instructor discussion sessions. The sessions prov
 
 To find an upcoming session, visit [this etherpad][discussion].
 
-### Mentoring Program
+### Mentoring Groups
 
-This program supports instructors who are new to our community by matching them with a personal Mentor. Mentors will guide small groups (~4-5) of Mentees, holding meetings for their Mentees to do things like practice teaching, ask questions about workshop logistics, and brush up on lesson content, depending on their needs and interests. 
+This program supports instructors by matching them with a personal mentor. Mentors will guide small groups (~4-5) of mentees, guiding them through specific goals including preparing to teach a workshop, maintaining lessons, building local communities, and organizing workshops.  
 
-See [this page](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md) for a full outline of the program.  
+See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md) for a full outline of the program.  
 
 ## Mentoring Committee Meetings
 
@@ -37,7 +37,7 @@ I would like to:
 
 - join a small group to receive mentoring from experienced instructors OR
 - mentor new instructors
-	- Sign up for the mentoring program by contacting Kari L. Jordan (kariljordan@carpentries.org)
+	- Join a mentoring group by contacting Kari L. Jordan (mailto:kariljordan@carpentries.org)
 - discuss workshop experiences with other instructors OR
 - ask questions of other instructors as I prepare to teach
 	- Attend an instructor discussion session by signing up on [this etherpad][discussion].
