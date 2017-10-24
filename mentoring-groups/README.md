@@ -1,5 +1,5 @@
-# Carpentries Mentoring Program
-Repo contains information for the Carpentries Mentoring Program.
+# Carpentries Mentoring Groups
+Repo contains information for the Carpentries Mentoring Groups.
 
 ## Important Dates:
 + Carpentries Mentoring Program: October 25th - January 10, 2017  
