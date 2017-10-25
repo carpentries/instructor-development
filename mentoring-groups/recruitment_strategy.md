@@ -1,5 +1,5 @@
 # Mentoring Groups Recruitment Strategy
-The inaugrual mentoring groups were developed and piloted in January 2017 by [Erin Becker](https://github.com/ErinBecker). The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljordan) in the Fall of 2017, and the second round of mentoring groups ran October 2017 through January 2018.
+The inaugural mentoring groups were developed and piloted in January 2017 by [Erin Becker](https://github.com/ErinBecker). The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljordan) in the Fall of 2017, and the second round of mentoring groups ran October 2017 through January 2018.
 
 See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for more information about how we transitioned the mentoring groups from its pilot phase.
 
