@@ -14,7 +14,7 @@ To find an upcoming session, visit [this etherpad][discussion].
 
 ### Mentoring Groups
 
-This program supports instructors by matching them with a personal mentor. Mentors will guide small groups (~4-5) of mentees, guiding them through specific goals including preparing to teach a workshop, maintaining lessons, building local communities, and organizing workshops.  
+Mentoring groups support instructors by matching them with a personal mentor. Mentors will guide small groups (~4-5) of mentees, guiding them through specific goals including preparing to teach a workshop, maintaining lessons, building local communities, and organizing workshops.  
 
 See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md) for a full outline of the program.  
 
