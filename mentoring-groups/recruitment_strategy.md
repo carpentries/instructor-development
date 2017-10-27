@@ -1,5 +1,5 @@
 # Mentoring Groups Recruitment Strategy
-The inaugural mentoring groups were developed and piloted in January 2017 by [Erin Becker](https://github.com/ErinBecker). The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljordan) in the Fall of 2017, and the second round of mentoring groups ran October 2017 through January 2018.
+The inaugural mentoring groups were developed and piloted in January 2017 by [Erin Becker](https://github.com/ErinBecker). The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljordan) in October 2017, and the second round of mentoring groups ran October 2017 through January 2018.
 
 See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for more information about how we transitioned the mentoring groups from its pilot phase.
 
@@ -32,7 +32,7 @@ We’d like to invite you to lead a mentoring group! With your leadership, parti
 
 Our mentors are experienced instructors who are committed to helping others become engaged members of the Carpentries community. Mentors have told us they really enjoy being involved with this program. 
                    
-We invite you to lead a mentoring group. If you are interested in learning more, please sign up for the information session on [XXX] via this Etherpad [1]. If you would like to be involved, but can’t attend the information session, please let us know. The deadline to sign up to be a mentor is [XXX]. To sign up, simply complete the Google form for mentors [2].
+If you are interested in learning more, please sign up for the information session on [XXX] via this Etherpad [1]. If you would like to be involved, but can’t attend the information session, please let us know. The deadline to sign up to be a mentor is [XXX]. To sign up, simply complete the Google form for mentors [2].
                                      
 We are looking forward to seeing you at an information session!
                    
