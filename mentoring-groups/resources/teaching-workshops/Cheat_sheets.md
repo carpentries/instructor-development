@@ -3,6 +3,7 @@
 ### Git and GitHub  
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)  
 - [GitHub Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)  
+- [Another GitHub Git cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [GitHub YouTube channel](https://www.youtube.com/githubguides)  
 
 ### OpenRefine  
