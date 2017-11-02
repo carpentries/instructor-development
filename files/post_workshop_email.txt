@@ -1,8 +1,8 @@
-Subject: Data & Software Carpentry Workshop Debriefing
+Subject: Software and Data Carpentry Workshop Debriefing
 
 Dear instructors,
 
-If you are receiving this message, you have recently instructed at a Data or Software Carpentry workshop.
+If you are receiving this message, you have recently instructed at a Software or Data Carpentry workshop.
 
 The Carpentries Mentoring Committee hosts instructor discussions every week in order to hear how workshops have gone, and we invite you to attend a discussion in the next few weeks to share about your recent workshop.  Even if you have attended a debriefing discussion before, we would appreciate feedback on any workshops you have done since then - we value hearing about your experiences. 
 
