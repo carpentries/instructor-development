@@ -7,11 +7,9 @@ to teach skills and help people build local communities (run in 10 cities worldw
     
 #### ResBaz resources
 
-- [ResBaz Cookbook](https://www.gitbook.com/book/heydejan/resbaz-cookbook/details) - this is the latest version
-- [Older ResBaz cookbook](https://github.com/resbaz/cookbook/wiki) - still many good tips in here
-- [Alternative link](https://github.com/resbaz/cookbook/blob/master/wiki_scraps.md)
-- [ResBaz blog](https://resbazblog.wordpress.com/author/resbaz/) and [ResBaz on Twitter](https://twitter.com/resbaz)
-- [ResBaz slack channel](https://resbaz-team.slack.com/?redir=%2Fmessages%2Fgeneral)
+- [ResBaz blog](https://resbazblog.wordpress.com/author/resbaz/) and [ResBaz on Twitter](https://twitter.com/resbaz) - this is the main source of information and links
+- [ResBaz Cookbook latest](https://www.gitbook.com/book/heydejan/resbaz-cookbook/details)  and [Older ResBaz cookbook](https://github.com/resbaz/cookbook/wiki)
+- [ResBaz slack channel](https://resbaz-team.slack.com/?redir=%2Fmessages%2Fgeneral) - monthly catch up 
 
 - [ResBaz 2018](https://resbaz.github.io/resbaz2018/) - the 2018 website in the making
 - [Belinda's Storify of 2016 ResBaz in Brisbane](https://storify.com/cloudaus/brisbane-research-bazaar)
