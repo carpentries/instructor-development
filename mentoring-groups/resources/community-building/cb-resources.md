@@ -7,7 +7,7 @@ to teach skills and help people build local communities (run in 10 cities worldw
     
 #### ResBaz resources
 
-- [ResBaz blog](https://resbazblog.wordpress.com/author/resbaz/) and [ResBaz on Twitter](https://twitter.com/resbaz) - this is the main source of information and links
+- [ResBaz blog](https://resbazblog.wordpress.com/author/resbaz/) and [ResBaz on Twitter](https://twitter.com/resbaz) - the blog is the main source of information and links, including a FAQ, while the Twitter feed will list news and announcements
 - [ResBaz Cookbook latest](https://www.gitbook.com/book/heydejan/resbaz-cookbook/details)  and [Older ResBaz cookbook](https://github.com/resbaz/cookbook/wiki)
 - [ResBaz slack channel](https://resbaz-team.slack.com/?redir=%2Fmessages%2Fgeneral) - monthly catch up 
 
