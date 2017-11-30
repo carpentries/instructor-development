@@ -9,7 +9,7 @@ to teach skills and help people build local communities (run in 10 cities worldw
 
 - [ResBaz Cookbook](https://www.gitbook.com/book/heydejan/resbaz-cookbook/details) - this is the latest version
 - [Older ResBaz cookbook](https://github.com/resbaz/cookbook/wiki) - still many good tips in here
-- Alternative link](https://github.com/resbaz/cookbook/blob/master/wiki_scraps.md)
+- [Alternative link](https://github.com/resbaz/cookbook/blob/master/wiki_scraps.md)
 - [ResBaz blog](https://resbazblog.wordpress.com/author/resbaz/)
 - [ResBaz slack channel](https://resbaz-team.slack.com/?redir=%2Fmessages%2Fgeneral)
 
