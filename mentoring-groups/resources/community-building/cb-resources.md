@@ -1,5 +1,3 @@
-Here are some links to tools I have found useful - feel free to add more -- Belinda Weaver
-
 #### Events and resources that help build community include 
 
 - **Research Bazaar** (ResBaz), a 3-day research festival 
@@ -30,5 +28,5 @@ to teach skills and help people build local communities (run in 10 cities in 201
 
 #### Chatrooms
 
-- [Library Carpentry chatroom](https://gitter.im/LibraryCarpentry/Lobby)
-- [Software Carpentry slack channel](https://swc-slack-invite.herokuapp.com/)
+- [Library Carpentry chatroom](https://gitter.im/LibraryCarpentry/Lobby) - this was a central tool in creating this community as it allowed asynchronous community engagement across different time zones. You can add a free Gitter chatroom to any GitHub repository, e.g. create a local community building repo and add chat functionality through Gitter.
+- [Software Carpentry slack channel](https://swc-slack-invite.herokuapp.com/) - this is the Software Carpentry general slack channel for community members. It is possible to set up your own local slack group to foster local networking. 
