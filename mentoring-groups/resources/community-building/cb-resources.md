@@ -29,6 +29,12 @@ to teach skills and help people build local communities (run in 10 cities worldw
 - [JCU HackyHour](https://twitter.com/JCUHackyHour)
 - [Uni of Auckland Hacky Hour](https://twitter.com/uoahackyhour)
 
+#### Study Group resources
+
+- [Mozilla Study Groups](https://science.mozilla.org/programs/studygroups)
+- [Study Group event types](https://mozillascience.github.io/studyGroupHandbook/event-types.html)
+- [Creating a study group](http://sarahlrstevens.info/communitybuild_combee/)
+
 #### Chatrooms
 
 - [Library Carpentry chatroom](https://gitter.im/LibraryCarpentry/Lobby) - this was a central tool in creating this community as it allowed asynchronous community engagement across different time zones. You can add a free Gitter chatroom to any GitHub repository, e.g. create a local community building repo and add chat functionality through Gitter.
