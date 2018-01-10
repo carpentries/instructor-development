@@ -5,10 +5,10 @@
 - Facilitate discussion among Software and Data Carpentry instructors, based 
 on a standard discussion agenda.  
 
-## Time commitment
+## Time commitment (per session)
 
-- We would like hosts to join and participate in at least one discussion session 
-per month - more frequently is also okay!  
+- 1 hour + approx 10 minutes. We would like hosts to join and participate in at least one discussion session 
+per month - more frequently is also okay! 
 
 ## Requirements
 
