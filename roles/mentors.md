@@ -21,7 +21,7 @@ Certified instructors who have taught at least 2 workshops.
 
 ## To Volunteer
 
-To join the mentoring program, email the Data Carpentry Associate Director at ebecker@datacarpentry.org.
+To join the mentoring program, email the Deputy Director of Assessment at kariljordan@carpentries.org.
 
 ## Resources and Checklists
 
