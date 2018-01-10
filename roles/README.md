@@ -1,4 +1,4 @@
-# Mantoring Subcommittee roles
+# Mentoring Subcommittee roles
 
 There are various roles in the Mentoring Subcommittee. Here is a quick overview with links to documents with more detailed description:
 - [Chair and Vice Chair](roles/chair-and-vice.md)
