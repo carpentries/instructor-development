@@ -4,7 +4,7 @@
 
 The primary responsibilities of the Discussion Session Coordinators are: 
 
-- Emailing workshop instructors about discussion session, before and after they teach. 
+- Emailing workshop instructors about discussion session, before and after they teach 
 - Recruiting/emailing discussion hosts about hosting 
 - Maintaining the [discussion-hosts@carpentries.org][host-mailing-list] mailing list
 - Maintaining the instructor discussion etherpad with upcoming dates
@@ -12,7 +12,7 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 ## Time commitment
 
-1 hour a week, 1 year term
+1 hour a week, 3 month term
 
 ## Requirements
 
@@ -33,13 +33,13 @@ Carpentry administrator.
 - set up discussion times: 
 	- add times and sign-up space to Etherpad
 	- add times to Community calendar
-- recruit discussion leaders (template requests here: ) and add them to the discussion-hosts lists
+- recruit discussion leaders (email request templates are provided to make things easier) and add them to the discussion-hosts lists
 - provide updates and ask for community input on how discussions are going in main mentoring committee calls
 
 ### Weekly: Set Up Discussions
 
 - [ ] Every Monday, confirm there are hosts for the upcoming week's discussions. 
-- [ ] (Optional) Email the hosts to confirm that they will be present.   
+- [ ] _Optional: Email the hosts to confirm that they will be present._
 - [ ] Every Monday, email instructors of workshops in the past week (Monday to 
 Monday), with the 
 [post-workshop email](../files/post_workshop_email.txt).  
