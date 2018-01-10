@@ -7,9 +7,9 @@ Currently, the committee receives updates from the Steering and Training Committ
 
 - Advise mentoring committee on decisions or actions that should be brought to the representative's committee
 - Update the representative's committee on mentoring committee activities
-- Bring items requiring representative's committee approval before that committee and 
+- Bring items requiring representative's committee approval before that committee and
 report back to the mentoring committee
- 
+
 ## Time Commitment
 
 1-2 hours a month, one year term
