@@ -4,15 +4,17 @@
 
 The co-chairs of the mentoring committee are responsible for: 
 
-1. Schedule monthly mentoring subcommittee meetings. Typically, meetings are the final Monday of every month and happen twice in one day (usually 13:00 UTC and 22:00 UTC)with each co-chair hosting one to accomodate time zones.
-2. Work with fellow co-chair to plans and share the monthly meeting agenda in advance (i.e. 1 or 2 weeks ahead of time).   
-3. Each co-chair will lead one of the meetings (or delegate when absent).
-4. Co-chairs will delegate tasks with each other for each month. (Can be done through a meeting after monthly subcommittee meeting to touch base).  
-5. Follows up with other mentoring committee members regarding their duties/concerns
-6. Gathers feedback from community and other sub-committee members about desired mentoring efforts or outcomes
-7. Facilitates the formation of task forces / sub-committees as appropriate to accomplish desired mentoring outcomes
-8. Adds new committee roles as necessary
-9. Evaluates committee roles on a yearly basis
+1. Scheduling monthly mentoring subcommittee meetings.  
+	- Typically, meetings are the final Monday of every month and happen twice in one day (usually 13:00 UTC and 22:00 UTC)with each co-chair hosting one to accomodate time zones.
+2. Working with fellow co-chair to plan and share the monthly meeting agenda in advance (i.e. 1 or 2 weeks ahead of time).   
+3. Leading one of the monthly subcommittee meetings (or delegate when absent).
+4. Delegating tasks that come up each month. 
+	- This can be done through a co-chairs meeting after monthly subcommittee meeting.  
+5. Following up with other mentoring committee members regarding their duties/concerns.
+6. Gathering feedback from community and other sub-committee members about desired mentoring efforts or outcomes.
+7. Facilitating the formation of task forces/sub-committees as appropriate to accomplish desired mentoring outcomes.
+8. Adding/modifying new committee roles as necessary.
+9. Evaluating committee roles on a yearly basis.
 
 
 ## Time Commitment
