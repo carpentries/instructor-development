@@ -18,7 +18,7 @@ taught one or no workshops, but may have been helpers before.
 
 ## To Participate
 
-The join the mentoring program, email the Data Carpentry Associate Director at ebecker@datacarpentry.org.
+The join the mentoring program, email the Deputy Director of Assessment, Kari L Jordan at kariljordan@carpentries.org.
 
 ## Resources and Checklists
 

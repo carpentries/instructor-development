@@ -1,11 +1,12 @@
-# Mantoring Subcommittee roles
+# Mentoring Subcommittee roles
 
 There are various roles in the Mentoring Subcommittee. Here is a quick overview with links to documents with more detailed description:
-- [Chair and Vice Chair](roles/chair-and-vice.md)
-- [Discussion Coordinators](roles/discussion-coordinators.md)
-- [Discussion Hosts](roles/discussion-hosts.md)
-- [Liaison](roles/liaison.md)
-- [Mentees](roles/mentees.md)
-- [Mentoring Coordinator](roles/mentoring-coordinator.md)
-- [Mentors](roles/mentors.md)
-- [Secretary](roles/secretary.md)
+- [Co-Chairs](co-chairs.md)
+- [Discussion Coordinators](discussion-coordinators.md)
+- [Discussion Hosts](discussion-hosts.md)
+- [Committee Liaison](committee-liaison.md)
+- [Staff Liaison](staff-liaison.md)
+- [Mentees](mentees.md)
+- [Mentoring Coordinator](mentoring-coordinator.md)
+- [Mentors](mentors.md)
+- [Secretary](secretary.md)
