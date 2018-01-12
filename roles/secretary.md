@@ -2,11 +2,11 @@
 
 ## Responsibilities
 
-The primary responsibilities of the Secretary are: 
+The primary responsibilities of the Secretary are:
 
 - Take notes / organize note-taking during mentoring committee meetings
 - Submit (optionally summarised) notes to the board repostiory as a pull request after the meeting
-- Keep the `README` and repository contents up-to-date. 
+- Keep the `README` and repository contents up-to-date.
 
 ## Time commitment
 
@@ -18,7 +18,7 @@ The primary responsibilities of the Secretary are:
 
 ## To Volunteer
 
-- Join the mentoring committee, be present for February election
+- Join the mentoring committee, contact the chair(s) when the position is open.
 
 ## Resources and Checklists
 Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
@@ -29,5 +29,5 @@ Mentoring committee documents are located in their own [repository](/) within th
    right of the etherpad.
 - [ ] _Optional: summarise the notes._ Distill the content of the notes to a shorter set of minutes, with key points made, actions decided upon, and who they were assigned to.
 - [ ] Convert meeting minutes to a markdown file named `minutes-YYYY-MM-DD.md`,
- saved in `mentoring > minutes`.  
+ saved in `mentoring > minutes`.
 - [ ] Submit as a pull request to this repository (`carpentries/mentoring`).
