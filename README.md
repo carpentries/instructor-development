@@ -2,38 +2,38 @@
 
 ## Purpose and Scope
 
-The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
+The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges.
 
 ## What We Do
 
 ### Instructor Discussion Sessions
 
-Each week, volunteers host two instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone. 
+Each week, volunteers host two instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone.
 
 To find an upcoming session, visit [this etherpad][discussion].
 
 ### Mentoring Groups
 
-Mentoring groups support instructors by matching them with a personal mentor. Mentors will guide small groups (~4-5) of mentees, guiding them through specific goals including preparing to teach a workshop, maintaining lessons, building local communities, and organizing workshops.  
+Mentoring groups support instructors by matching them with a personal mentor. Mentors will guide small groups (~4-5) of mentees, guiding them through specific goals including preparing to teach a workshop, maintaining lessons, building local communities, and organizing workshops.
 
-See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md) for a full outline of the program.  
+See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md) for a full outline of the program.
 
 ## Mentoring Committee Meetings
 
 The mentoring committee itself meets regularly to evaluate current activities, and propose
-new activities.  Minutes of past meetings are available [here](minutes).  All community 
-members are welcome to attend mentoring committee meetings.  Similarly, we welcome 
-anyone who is interested in joining up and helping out!  
+new activities.  Minutes of past meetings are available [here](minutes).  All community
+members are welcome to attend mentoring committee meetings.  Similarly, we welcome
+anyone who is interested in joining up and helping out!
 
 To attend our next meeting, visit [this etherpad][meetings].
 
 ## Join Us!
 
-Any Software or Data Carpentry community member is welcome to participate in 
-Mentoring committee activities and/or join the committee itself!  Some different 
-options for getting involved are given below.  
+Any Software or Data Carpentry community member is welcome to participate in
+Mentoring committee activities and/or join the committee itself!  Some different
+options for getting involved are given below.
 
-I would like to: 
+I would like to:
 
 - join a small group to receive mentoring from experienced instructors OR
 - mentor new instructors
@@ -42,13 +42,13 @@ I would like to:
 - ask questions of other instructors as I prepare to teach
 	- Attend an instructor discussion session by signing up on [this etherpad][discussion].
 - help lead discussion sessions among instructors
-	- Join the [discussion host mailing list][host-mailing-list] and sign up to host, co-host, or observe 
+	- Join the [discussion host mailing list][host-mailing-list] and sign up to host, co-host, or observe
 	a discussion on [this etherpad][discussion]
 - support current mentoring activities or initiate new ones OR
 - join the mentoring committee
 	- Sign up for the mentoring committee [mailing list][comm-mailing-list] and attend the next mentoring committee meeting (scheduled on [this etherpad](meetings)
 
-For a complete summary of different mentoring roles, see [this page](roles/README.md).  
+For a complete summary of different mentoring roles, see [this page](roles/README.md).
 
 
 ## Training Committee Liaison
@@ -60,15 +60,20 @@ For a complete summary of different mentoring roles, see [this page](roles/READM
 * Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 * Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
 
+## Staff Liaison
+
+* Kari Jordan (@kariljordan, [@DrKariLJordan](https://twitter.com/DrKariLJordan))
+
 ## Current Members
 
 * Erin Becker
 * Jonah Duckles
-* Jamie Hadwin (Co-chair)
+* Jamie Hadwin
 * Chris Hamm
 * Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 * Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
-* Toby Hodges (Secretary, @tobyhodges, [@tbyhdgs](https://twitter.com/tbyhdgs))
+* Toby Hodges (Co-chair, @tobyhodges, [@tbyhdgs](https://twitter.com/tbyhdgs))
+* Kari Jordan (@kariljordan, [@DrKariLJordan](https://twitter.com/DrKariLJordan))
 * Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
 * Mateusz Kuzak (@mkuzak, [@matkuzak](https://twitter.com/matkuzak))
 * Mark Laufersweiler
