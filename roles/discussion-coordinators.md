@@ -4,11 +4,11 @@
 
 The primary responsibilities of the Discussion Session Coordinators are:
 
-- Emailing workshop instructors about discussion session, before and after they teach
+- Emailing workshop instructors about discussion sessions (before and after they teach)
 - Recruiting/emailing discussion hosts about hosting
 - Maintaining the [discussion-hosts@carpentries.org][host-mailing-list] mailing list
-- Maintaining the instructor discussion etherpad with upcoming dates
-- Checking in with hosts, the week of their discussion sessions
+- Maintaining the [instructor discussion Etherpad](http://pad.software-carpentry.org/instructor-discussion) with upcoming dates
+- Checking in with hosts the week of their discussion sessions
 
 ## Time commitment
 
@@ -16,25 +16,24 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 ## Requirements
 
-- Member of the mentoring subcommittee
+- Member of the Mentoring Subcommittee
 
 ## To Volunteer
 
-- Join the mentoring committee, Join the mentoring committee, contact the chair(s) when the position is open
+- Join the Mentoring Subcommittee, and contact the chair(s) when the position is open
 
 ## Checklists and Resources
 
-To get access to AMY and to the Community Calendar, contact the Software
-Carpentry administrator.
+To get access to AMY and to the Community Calendar, [contact](mailto:sher@carpentries.org) the Carpentries Workshop Administrator.
 
 ### Ongoing
 
-- send out emails to the discussion hosts list as needed, asking for volunteers
-- set up discussion times:
-	- add times and sign-up space to Etherpad
+- Send out emails to the discussion hosts list as needed, asking for volunteers
+- Set up discussion times:
+	- add times and sign-up space to [Etherpad](http://pad.software-carpentry.org/instructor-discussion)
 	- add times to Community calendar
-- recruit discussion leaders (email request templates are provided to make things easier) and add them to the discussion-hosts lists
-- provide updates and ask for community input on how discussions are going in main mentoring committee calls
+- Recruit discussion leaders and add them to the discussion-hosts lists. Email request templates are provided to make things easier
+- Provide updates and ask for community input on how discussions are going during the Mentoring Subcommittee meetings
 
 ### Weekly: Set Up Discussions
 
