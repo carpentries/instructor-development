@@ -2,7 +2,7 @@
 Repo contains information for the Carpentries Mentoring Groups.
 
 ## Important Dates:
-+ Carpentries Mentoring Program: October 25th - January 10, 2017  
++ Carpentries Mentoring Program: October 25th - February 6, 2018  
 + Mentor & Mentee Applications Open: October 2nd
 + Mentoring Program Info Session: October 12th      
 + Mentor & Mentee Applications Close: October 18th    
