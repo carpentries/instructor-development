@@ -14,11 +14,11 @@ The primary responsibilities of the Secretary are:
 
 ## Requirements
 
-- Member of the mentoring subcommittee
+- Member of the Mentoring Subcommittee
 
 ## To Volunteer
 
-- Join the mentoring committee, contact the chair(s) when the position is open.
+- Join the Mentoring Subcommittee, and contact the Chair(s) when the position is open.
 
 ## Resources and Checklists
 Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
@@ -27,7 +27,7 @@ Mentoring committee documents are located in their own [repository](/) within th
 
 - [ ] After each meeting, star the etherpad. You will find this option on the top
    right of the etherpad.
-- [ ] _Optional: summarise the notes._ Distill the content of the notes to a shorter set of minutes, with key points made, actions decided upon, and who they were assigned to.
+- [ ] _Optional: Summarise the notes._ Distill the content of the notes to a shorter set of minutes, with key points made, actions decided upon, and who they were assigned to.
 - [ ] Convert meeting minutes to a markdown file named `minutes-YYYY-MM-DD.md`,
  saved in `mentoring > minutes`.
 - [ ] Submit as a pull request to this repository (`carpentries/mentoring`).
