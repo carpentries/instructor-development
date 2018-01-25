@@ -4,7 +4,8 @@ The Mentoring Subcommittee was established in 2015 to develop and maintain a men
 
 # Objectives
 
-* Need to add
+* Host [weekly instructor discussion sessions](http://pad.software-carpentry.org/instructor-discussion) to help support soon-to-be instructors going through checkout and create a space where upcoming and recent instructors of workshops can share their thoughts and perspectives going into and coming out of a workshop. 
+* Host [monthly committee meetings](http://pad.software-carpentry.org/scf-mentoring) to check in on instructor discussion sessions, get updates on other carpentries committees, and brainstorm new directions and happenings of the mentoring committee. 
 
 # Activities
 
