@@ -75,14 +75,14 @@ The mentoring committee’s main duty is to lead and organize the instructor dis
 * Each month has at least eight discussion sessions
 * Instructors are notified at least one week in advance of their workshop and can sign up for their preferred time
 * Each session has at least one host and one co-host/notetaker to conduct the discussion:
-
-**Host:** The host is the leader of the discussion session and will be the main discussion guide. The host is expected to share their experiences being an instructor and to keep the discussion on track.
-  * Please take notes in the etherpad when the co-host/notetaker is speaking.
-  * Email co-host/notetaker to see if they would like any advice/guidance - especially if it is their first time co-hosting/notetaking or you don’t know your co-host/notetaker
-**Co-host/note taker:** The co-hosts main role is to take notes on the discussion session and to share their experience as an instructor when they can. It is especially important for the co-host to step in with their experience when there are many instructor training check-outs in the session. Otherwise, the co-host can mainly take notes.
-  * Please sign up to host or co-host a discussion session! :)
-  * If you notice that no one is signed up to be host, it can be helpful if you email the listserv asking for people to sign up to host/co-host.
-  * Meeting scheduling will be coordinated via etherpad.
+  * **Host:** The host is the leader of the discussion session and will be the main discussion guide. The host is expected to share their experiences being an instructor and to keep the discussion on track.
+    * Please take notes in the etherpad when the co-host/notetaker is speaking.
+    * Email co-host/notetaker to see if they would like any advice/guidance - especially if it is their first time co-hosting/notetaking or you don’t know your co-host/notetaker
+  * **Co-host/note taker:** The co-hosts main role is to take notes on the discussion session and to share their experience as an instructor when they can. It is especially important for the co-host to step in with their experience when there are many instructor training check-outs in the session. Otherwise, the co-host can mainly take notes.
+    * Please sign up to host or co-host a discussion session! :)
+    * If you notice that no one is signed up to be host, it can be helpful if you email the listserv asking for people to sign up to host/co-host.
+    * Meeting scheduling will be coordinated via etherpad.
+* If you’re interested in finding out more about how these sessions work, you’re welcome to attend as a silent observer/listener. Sign up on the etherpad and let the host know that you would like to observe their session.
 * The dates of instructor discussion sessions are also listed in the SCF community calendar,  https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com.
 
 #### Signing Up to Host/Co-Host Discussion
