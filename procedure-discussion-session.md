@@ -45,7 +45,7 @@ Email invitations should be sent to three groups of instructors:
 - instructors who are preparing to teach in the next 4 weeks
 
 - folks who have recently completed instructor training and need to
-  attend a discussion session to complete their [instructor checkout](http://carpentries.github.io/instructor-training/checkout/)
+  attend a discussion session to complete their [instructor checkout](https://carpentries.github.io/instructor-training/checkout/)
 
 The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
 The chair of the mentoring subcommittee, as well as all members of the Carpentries Steering committee, 
