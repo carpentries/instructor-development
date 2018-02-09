@@ -25,7 +25,7 @@ Discussion sessions are organized and conducted through this etherpad:
 - [ ] Archive the etherpad by clicking on the star in the top right corner.  
 - [ ] **Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)**
 	- *Note:* Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
-	- This questionnaire will automatically send an email to the mentoring co-chairs and to checkouts@carpentries.org.
+	- This questionnaire will automatically send an email to the mentoring co-chairs and to checkout@carpentries.org.
 - [ ] Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - [ ] (Optional) write a blog post about interesting points that came up in discussion; see 
 [this template](template-blog-about-debriefing-session.md) as a starting point.
