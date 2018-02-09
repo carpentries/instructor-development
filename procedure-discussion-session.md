@@ -6,10 +6,6 @@ checklists for the hosts and discussion organizer [here](checklists-discussion-s
 
 ## Terminology
 
--   **SCF**: Software Carpentry Foundation.
-
--   **DC**: Data Carpentry.
-
 -   **Instructor discussion session**: an online meeting
     where instructors share experiences from teaching and
     obtain information while preparing to teach.
@@ -19,15 +15,11 @@ checklists for the hosts and discussion organizer [here](checklists-discussion-s
 
 ## Motivation
 
-1.  SCF and DC are community based projects
-    and the community needs opportunity to interact.
+1.  The Carpentries are community based projects and the community needs opportunity to interact.
 
-2.  SCF and DC believe in jugyokenkyu, or "lesson study",
-    and evidence-based education so instructors need opportunity to share experiences.
+2.  The Carpentries believe in jugyokenkyu, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
 
-3. SCF and DC are continuing to increase the number of instructors
-   and develop new lessons. New instructors would like to hear from 
-   experienced teachers who have recently taught to help prepare for upcoming workshops.
+3. The Carpentries are continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
 ## Before the meeting
 
@@ -43,7 +35,7 @@ the instructor discussion sessions so that
 Meeting scheduling will be coordinated via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 The dates of instructor discussion sessions are also listed
-in the SCF community calendar,
+in the Carpentries community calendar,
 https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com.
 
 Email invitations should be sent to three groups of instructors:
@@ -53,16 +45,16 @@ Email invitations should be sent to three groups of instructors:
 - instructors who are preparing to teach in the next 4 weeks
 
 - folks who have recently completed instructor training and need to
-  attend a discussion session to complete their [checkout](https://swcarpentry.github.io/instructor-training/checkout/)
+  attend a discussion session to complete their [instructor checkout](https://carpentries.github.io/instructor-training/checkout/)
 
 The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
-The chair of the mentoring subcommittee, as well as all members of the SCF Steering committee, 
+The chair of the mentoring subcommittee, as well as all members of the Carpentries Steering committee, 
 should have access to AMY. Newly trained instructors should be directed to instructor discussion sessions 
 following completion of instructor training.  
 
 ## During the meeting
 
-Meetings will be hosted via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meetings will be hosted via the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 The agenda should be similar to the following:
 
@@ -92,8 +84,8 @@ from the mentoring subcommittee (although two hosts are preferred).
 
 The **host** is responsible for: 
 
-- hosting the meeting and facilitating discussion using the agenda described on the 
-[etherpad](http://pad.software-carpentry.org/instructor-discussion). 
+- hosting the meeting and facilitating discussion using the agenda described 
+[this instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion). 
 
 - maintaining focus on the main goal of the session, which is to share ideas and keep instructors excited about teaching.
 
@@ -114,23 +106,12 @@ instructor trainees.  If there are exactly 5 workshops represented, it is at the
 discretion of the host whether to split the group.  
 
 
-## After the meeting
+## After Hosting the meeting
 
-The host of the meeting should report back to the lead instructor trainer and 
-describe whether newly trained instructors participating as a part of the checkout procedure 
-were engaged and could answer target questions described in the checkout procedure.
-
-The host of the meeting should 1) archive the etherpad and 2) clean 
-the etherpad for the next user. To archive, click the star in the top left 
-corner. This will save a copy of the etherpad in its current state. Then, 
-the faciliator should delete all the community added comments and change 
-the dates to prepare the etherpad for the next session.  
-
-The hosts of discussion sessions may choose to 
-write a blog post summarizing topics discussed, including 
-(but not limited to) the following: implementation of new lessons, 
-recurring questions about or problems while teaching, and general strategies for 
-instructing workshops. 
-[This template](template-blog-about-debriefing-session.md) can be used
-as the start point for the blog post.
+- [ ] **Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)**
+	- *Note:* Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
+	- This questionnaire will automatically send an email to checkouts@carpentries.org (and the mentoring co-chairs) to show that the newly trained instructors participating as a part of the checkout procedure were engaged and could answer target questions described in the checkout procedure.
+- [ ] **Archive** the etherpad by clicking on the star in the top right corner. This will save a copy of the etherpad in its current state.
+- [ ] **Clean** the etherpad for the next user by deleting all the community added comments and change the dates to prepare the etherpad for the next session.
+- [ ] *Optional:* Write a blog post summarizing topics discussed, including (but not limited to) the following: implementation of new lessons, recurring questions about or problems while teaching, and general strategies for instructing workshops. [This template](template-blog-about-debriefing-session.md) can be used as the start point for the blog post.
 
