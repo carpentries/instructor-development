@@ -41,7 +41,7 @@ Meets as a committee once a month.
 * Mailing list for the mentoring committee: mentoring@lists.software-carpentry.org
 * Getting access to mailman / logging in / pretty much everything to do with this list server can be done here:  http://lists.software-carpentry.org/listinfo/mentoring
 * Mentoring etherpad: http://pad.software-carpentry.org/scf-mentoring
-* Meeting Minutes: [minutes](minutes directory)
+* Meeting Minutes: [https://github.com/carpentries/mentoring/tree/master/minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
 * Community Calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
 
 #### Mentoring Committee Meetings
