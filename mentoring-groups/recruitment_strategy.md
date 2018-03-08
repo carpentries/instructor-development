@@ -67,3 +67,5 @@ Kari L. Jordan
 [2] http://pad.software-carpentry.org/mentorship-info   
 
 ____________________________________________________________________________
+### Updates
+On March 8, 2018, Kari L. Jordan updated the mentoring groups sign-up process. Mentors will apply to serve and specify which tools they use and how they want to help mentees. Kari will add that information to [this Etherpad](http://pad.software-carpentry.org/mentoring-groups), and mentees will come to this Etherpad to sign up for the group they want to join. This process was developed to make it easier for mentees to self-select which mentor they'd like to work with. For a synopsis of the previous mentoring group round, see [this blog post](http://www.datacarpentry.org/blog/Mentoring-Groups-Virtual-Showcase/).
