@@ -13,7 +13,7 @@ Repo contains information for the Carpentries Mentoring Groups.
 
 ## Applications
 + [Mentor application](https://goo.gl/forms/xKYytXTbI1PUo56C2)  
-+ [Mentee application](https://goo.gl/forms/sSqFBgB6Uf0Bcujj1)  
++ [Mentee application](https://goo.gl/forms/0Tiz8m1E2H5nlLus2)  
 
 ## Etherpad
 + [Etherpad for Mentors](http://pad.software-carpentry.org/mentorship-info)
