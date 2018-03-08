@@ -13,7 +13,7 @@ Mentors will guide small groups of no more than five mentees toward a particular
 + Mentoring Groups Info Session: March 15th
 + Mentor and Mentee Applications Close: March 23rd
 + Mentor Bios Due: March 30th
-+ Mentees Self-Select Mentoring Group by March 28th
++ Mentees [Self-Select Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 28th
 + Mentor Onboarding: April 5th
 + CarpentryCon Mentoring Meetup: May 31st 
 + Mentor Power Check-In: June 11th  
