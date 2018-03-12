@@ -2,18 +2,20 @@
 Repo contains information for the Carpentries Mentoring Groups.
 
 ## Important Dates:
-+ Carpentries Mentoring Program: October 25th - February 6, 2018  
-+ Mentor & Mentee Applications Open: October 2nd
-+ Mentoring Program Info Session: October 12th      
-+ Mentor & Mentee Applications Close: October 18th    
-+ Mentoring Subcommittee Meeting: October 23rd
-+ Mentoring Groups Matched: October 25th  
-+ Mid-Program Power Check-in: November 28th 
-+ Mentoring Program Virtual Showcase: February 6th 
++ Carpentries Mentoring Groups: April 9th - August 13th, 2018  
++ Mentor and Mentee Applications Open: March 12th
++ Mentoring Groups Info Session: March 15th
++ Mentor and Mentee Applications Close: March 23rd
++ Mentor Bios Due: March 30th
++ Mentees [Self-Select Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 28th
++ Mentor Onboarding: April 5th
++ CarpentryCon Mentoring Meetup: May 31st 
++ Mentor Power Check-In: June 11th  
++ Mentoring Groups Virtual Showcase: January 10th
 
 ## Applications
-+ [Mentor application](https://goo.gl/forms/xKYytXTbI1PUo56C2)  
-+ [Mentee application](https://goo.gl/forms/0Tiz8m1E2H5nlLus2)  
++ [Mentor applications](https://goo.gl/forms/SO6qtGmAP7d6sIJL2)  
++ [Mentee applications](https://goo.gl/forms/oM23ahltliI9t96T2)  
 
 ## Etherpad
 + [Etherpad for Mentors](http://pad.software-carpentry.org/mentorship-info)
