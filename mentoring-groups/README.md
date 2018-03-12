@@ -14,8 +14,8 @@ Repo contains information for the Carpentries Mentoring Groups.
 + Mentoring Groups Virtual Showcase: January 10th
 
 ## Applications
-+ [Mentor applications](https://goo.gl/forms/SO6qtGmAP7d6sIJL2)  
-+ [Mentee applications](https://goo.gl/forms/oM23ahltliI9t96T2)  
++ [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2)  
++ [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72)  
 
 ## Etherpad
 + [Etherpad for Mentors](http://pad.software-carpentry.org/mentorship-info)
