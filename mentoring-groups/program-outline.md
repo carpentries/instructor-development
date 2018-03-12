@@ -19,7 +19,7 @@ Mentors will guide small groups of no more than five mentees toward a particular
 + Mentor Power Check-In: June 11th  
 + Mentoring Groups Virtual Showcase: January 10th  
 
-For more information, and to sign up for the info session, see the Mentoring Subcommittee [Etherpad](http://pad.software-carpentry.org/scf-mentoring). [Mentor applications](https://goo.gl/forms/SO6qtGmAP7d6sIJL2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/oM23ahltliI9t96T2) are open to instructors who have taught less than two workshops.
+For more information, and to sign up for the info session, see the Mentoring Subcommittee [Etherpad](http://pad.software-carpentry.org/scf-mentoring). [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72) are open to instructors who have taught less than two workshops.
 ____________________________________________________________________________
 
 ## Carpentries Mentoring Groups Highlights  
