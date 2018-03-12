@@ -1,6 +1,6 @@
 ### Mentoring Session Checklist
 
-Here are a few items to include in each mentoring group session:
+Here are a few items that you may choose to include in each mentoring session.
 
 + Introductions and [Icebreakers](https://www.thebalance.com/fun-ice-breaker-questions-1918413) 
 + Review the Carpentries communication channels.
