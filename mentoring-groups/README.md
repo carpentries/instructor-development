@@ -1,5 +1,5 @@
 # Carpentries Mentoring Groups
-Repo contains information for the Carpentries Mentoring Groups.
+Applications for both mentors and mentees **are now open**, and due by March 23rd. Mentor applications are open to instructors who have taught at least two workshops. Mentee applications are open to instructors who have taught less than two workshops. 
 
 ## Important Dates:
 + Carpentries Mentoring Groups: April 9th - August 13th, 2018  
