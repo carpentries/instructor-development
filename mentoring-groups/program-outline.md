@@ -1,23 +1,25 @@
 ## Carpentries Mentoring Groups
 
-Mentoring is a professional development opportunity that the Carpentries offers our growing instructor pool to help community members learn and grow.
+Mentoring is a professional development opportunity that The Carpentries offers our community to foster growth and development.
 
-Mentoring Groups support instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal. 
+Mentoring Groups support the community in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal. 
 
-Mentors will guide small groups of no more than five mentees towards a particular outcome. Outcomes might be anything from teaching a specific lesson (i.e. Version Control with Git) to making a meaningful contribution to one of our lessons.  
+Mentors will guide small groups of no more than five mentees toward a particular outcome. Outcomes might be anything from teaching a specific lesson (i.e. Version Control with Git) to making a meaningful contribution to one of our lessons.  
 
 ## Carpentries Mentoring Group Schedule  
 
-+ Carpentries Mentoring Groups: October 25th - January 10, 2017  
-+ Mentor & Mentee Applications Open: October 2nd
-+ Mentoring Groups Info Session: October 12th      
-+ Mentor & Mentee Applications Close: October 18th    
-+ Mentoring Subcommittee Meeting: October 23rd
-+ Mentoring Groups Matched: October 25th  
-+ Mid-way Touch Base: November 29th 
++ Carpentries Mentoring Groups: April 9th - August 13th, 2018  
++ Mentor and Mentee Applications Open: March 12th
++ Mentoring Groups Info Session: March 15th
++ Mentor and Mentee Applications Close: March 23rd
++ Mentor Bios Due: March 30th
++ Mentees [Self-Select Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 28th
++ Mentor Onboarding: April 5th
++ CarpentryCon Mentoring Meetup: May 31st 
++ Mentor Power Check-In: June 11th  
 + Mentoring Groups Virtual Showcase: January 10th  
 
-For more information, and to sign up for the info session, see the mentorship info [Etherpad](http://pad.software-carpentry.org/mentorship-info). [Mentor applications](https://goo.gl/forms/SO6qtGmAP7d6sIJL2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/oM23ahltliI9t96T2) are open to instructors who have taught less than two workshops.
+For more information, and to sign up for the info session, see the Mentoring Subcommittee [Etherpad](http://pad.software-carpentry.org/scf-mentoring). [Mentor applications](https://goo.gl/forms/SO6qtGmAP7d6sIJL2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/oM23ahltliI9t96T2) are open to instructors who have taught less than two workshops.
 ____________________________________________________________________________
 
 ## Carpentries Mentoring Groups Highlights  
