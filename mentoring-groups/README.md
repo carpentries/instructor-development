@@ -11,7 +11,7 @@ Applications for both mentors and mentees **are now open**, and due by March 23r
 + Mentor Onboarding: April 5th
 + CarpentryCon Mentoring Meetup: May 31st 
 + Mentor Power Check-In: June 11th  
-+ Mentoring Groups Virtual Showcase: January 10th
++ Mentoring Groups Virtual Showcase: August 13th
 
 ## Applications
 + [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2)  
