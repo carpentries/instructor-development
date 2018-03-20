@@ -17,8 +17,6 @@ Applications for both mentors and mentees **are now open**, and due by March 23r
 + [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2)  
 + [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72)  
 
-## Infosession Sign-Up
-+ [Etherpad for Infosession](http://pad.software-carpentry.org/mentorship-info)
-
-Infosession March 23rd at [1130 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Groups+Info+Session&iso=20180315T0730&p1=179&am=30) and [2030 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Groups+Info+Session&iso=20180315T1630&p1=179)
+## Program Outline
++ [Outline](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md)
 
