@@ -6,8 +6,7 @@ Applications for both mentors and mentees **are now open**, and due by March 23r
 + Mentor and Mentee Applications Open: March 12th
 + Mentoring Groups Info Session: March 15th
 + Mentor and Mentee Applications Close: March 30th
-+ Mentor Bios Due: March 30th
-+ Mentees [Self-Select Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 28th
++ Mentees Placed In [Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 30th
 + Mentor Onboarding: April 5th
 + CarpentryCon Mentoring Meetup: May 31st 
 + Mentor Power Check-In: June 11th  
