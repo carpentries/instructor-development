@@ -5,7 +5,7 @@ Applications for both mentors and mentees **are now open**, and due by March 23r
 + Carpentries Mentoring Groups: April 9th - August 13th, 2018  
 + Mentor and Mentee Applications Open: March 12th
 + Mentoring Groups Info Session: March 15th
-+ Mentor and Mentee Applications Close: March 23rd
++ Mentor and Mentee Applications Close: March 30th
 + Mentor Bios Due: March 30th
 + Mentees [Self-Select Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 28th
 + Mentor Onboarding: April 5th
