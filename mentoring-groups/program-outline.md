@@ -11,13 +11,12 @@ Mentors will guide small groups of no more than five mentees toward a particular
 + Carpentries Mentoring Groups: April 9th - August 13th, 2018  
 + Mentor and Mentee Applications Open: March 12th
 + Mentoring Groups Info Session: March 15th
-+ Mentor and Mentee Applications Close: March 23rd
-+ Mentor Bios Due: March 30th
-+ Mentees [Self-Select Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 28th
++ Mentor and Mentee Applications Close: March 30th
++ Mentees Placed In [Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 30th
 + Mentor Onboarding: April 5th
 + CarpentryCon Mentoring Meetup: May 31st 
 + Mentor Power Check-In: June 11th  
-+ Mentoring Groups Virtual Showcase: August 13th  
++ Mentoring Groups Virtual Showcase: August 13th 
 
 For more information, and to sign up for the info session, see the Mentoring Subcommittee [Etherpad](http://pad.software-carpentry.org/scf-mentoring). [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72) are open to instructors who have taught less than two workshops.
 ____________________________________________________________________________
