@@ -1,12 +1,3 @@
-# Mentoring Subcommittee roles
+This documentation has moved.  For current resources for the Mentoring community, please visit
+http://docs.carpentries.org/topic_folders/mentoring/index.html
 
-There are various roles in the Mentoring Subcommittee. Here is a quick overview with links to documents with more detailed description:
-- [Co-Chairs](co-chairs.md)
-- [Discussion Coordinators](discussion-coordinators.md)
-- [Discussion Hosts](discussion-hosts.md)
-- [Committee Liaison](committee-liaison.md)
-- [Staff Liaison](staff-liaison.md)
-- [Mentees](mentees.md)
-- [Mentoring Coordinator](mentoring-coordinator.md)
-- [Mentors](mentors.md)
-- [Secretary](secretary.md)
