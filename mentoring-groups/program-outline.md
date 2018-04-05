@@ -7,12 +7,11 @@ Mentoring Groups support the community in a variety of ways. Whether you are a n
 Mentors will guide small groups of no more than five mentees toward a particular outcome. Outcomes might be anything from teaching a specific lesson (i.e. Version Control with Git) to making a meaningful contribution to one of our lessons.  
 
 ## Carpentries Mentoring Group Schedule  
-
 + Carpentries Mentoring Groups: April 9th - August 13th, 2018  
 + Mentor and Mentee Applications Open: March 12th
 + Mentoring Groups Info Session: March 15th
-+ Mentor and Mentee Applications Close: March 30th
-+ Mentees Placed In [Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) by March 30th
++ Mentor and Mentee Applications: Open until filled
++ Mentees Placed In [Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) beginning March 30th
 + Mentor Onboarding: April 5th
 + CarpentryCon Mentoring Meetup: May 31st 
 + Mentor Power Check-In: June 11th  
