@@ -3,3 +3,6 @@ Resources to help community members understand how lesson maintenance works, and
 
 # Contributing Guidelines
 Click this [link](https://github.com/datacarpentry/wrangling-genomics/blob/gh-pages/CONTRIBUTING.md) for the Carpentries guidelines for contributing to lessons.
+
+# Mastering Issues
+Click this [link](https://guides.github.com/features/issues/) for GitHub's guide to mastering issues.
