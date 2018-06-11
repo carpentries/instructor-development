@@ -6,18 +6,17 @@ Mentoring Groups support the community in a variety of ways. Whether you are a n
 
 Mentors will guide small groups of no more than five mentees toward a particular outcome. Outcomes might be anything from teaching a specific lesson (i.e. Version Control with Git) to making a meaningful contribution to one of our lessons.  
 
-## Carpentries Mentoring Group Schedule  
-+ Carpentries Mentoring Groups: April 9th - August 13th, 2018  
-+ Mentor and Mentee Applications Open: March 12th
-+ Mentoring Groups Info Session: March 15th
-+ Mentor and Mentee Applications: Open until filled
+## Current Cycle Dates: April 9th - August 13th, 2018  
++ Applications Open: March 12th
++ Info Session: March 15th
 + Mentees Placed In [Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) beginning March 30th
 + Mentor Onboarding: April 5th
 + CarpentryCon Mentoring Meetup: May 31st 
-+ Mentor Power Check-In: June 11th  
-+ Mentoring Groups Virtual Showcase: August 13th 
++ Mentor Power Check-In: Mid-June  
++ Mentoring Groups Virtual Showcase: August 13th
 
-For more information, and to sign up for the info session, see the Mentoring Subcommittee [Etherpad](http://pad.software-carpentry.org/scf-mentoring). [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72) are open to instructors who have taught less than two workshops.
+# Carpentries Mentoring Groups
+Applications for both mentors and mentees **are open**. [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72) are open to instructors who have taught less than two workshops. Mentees will be added to mentoring groups as applications are received. Mentor applications are received ongoing, but mentor onboarding occurs every 3-4 months.
 ____________________________________________________________________________
 
 ## Carpentries Mentoring Groups Highlights  
