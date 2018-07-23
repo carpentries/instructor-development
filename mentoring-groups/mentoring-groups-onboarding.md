@@ -1,26 +1,29 @@
 # Mentoring Groups Onboarding
-The inaugural mentoring groups were developed and piloted in January 2017 by [Erin Becker](https://github.com/ErinBecker). The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljordan) in October 2017, and the second round of mentoring groups ran October 2017 through January 2018.
+
+The inaugural mentoring groups were developed and piloted in January 2017 by [Erin Becker](https://github.com/ErinBecker). 
+The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljordan) in October 2017, and the second round of mentoring groups ran from October 2017 to the end of January 2018.
 
 See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for more information about how we transitioned the mentoring groups from its pilot phase.
 
 ## Mentoring Groups Outline
+
 + [Outline](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md)
 
 ## Recruitment Strategy
 
 + **Recruitment**
-  + Mentoring groups are open to any individual having gone through the [Carpentries instructor training](https://carpentries.github.io/instructor-training/).
-  + Individuals having taught zero to two workshops are welcomed to be mentees.
-  + Individuals having taught three or more workshops are welcomed to lead mentoring groups as mentors.
+  + Mentoring groups are open to any individual who has completed [Carpentries instructor training](https://carpentries.github.io/instructor-training/).
+  + Individuals who have taught fewer than two workshops (or no workshops at all yet) are invited as mentees.
+  + Individuals who have taught three or more workshops are invited to lead mentoring groups.
 + **Activities & Timing**
-  + Mentoring groups are run between 8 and 12 weeks.
-  + Kari Jordan will hold a mentoring groups touch base with mentors half way through the 8-12 week period.
-  + A [survey](https://goo.gl/forms/BOxgiKy99kVec07j2) will be administered to mentors and mentees half way through the 8-12 week period.
+  + Mentoring groups run for between eight and 12 weeks.
+  + Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
+  + Mentors and mentees will be invited to complete a short [survey](https://goo.gl/forms/BOxgiKy99kVec07j2) halfway through the 8-12 week period.
   + The 8-12 week period will end with a virtual showcase.
-  + A [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) will be administered to mentors and mentees at the end of the mentoring group period.
+  + Mentors and mentees will be invited to complete asecond short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
 + **Exposure**
-  + A mentoring page will be added to Data/Software Carpentry's website with information for how to join a mentoring group.
-  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, per the discretion of Kari Jordan.
+  + A mentoring page will be added to The Carpentries' [website](https://carpentries.org) with information on how to join a mentoring group.
+  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of Kari Jordan.
   + The Mentoring Subcommittee will be instrumental in getting the word out about mentoring groups.
 
 ## E-mail Templates
@@ -28,9 +31,9 @@ See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for 
 
 Dear [INSERT FIRST NAME]
 
-Carpentries mentoring groups have been extremely successful, and we have used the feedback we received from both mentors and mentees to craft a new and improved mentoring experience for both mentors and mentees in round two.
+Carpentries mentoring groups have been extremely successful, and we have used existing feedback from both mentors and mentees to craft a new and improved mentoring experience for both mentors and mentees in round two.
 
-We’d like to invite you to lead a mentoring group! With your leadership, participants have the opportunity to learn from each other and reach specific goals around teaching, lesson maintenance, workshop operations, and/or community building.
+We would like to invite you to lead a mentoring group! With your leadership, participants have the opportunity to learn from each other and reach specific goals around teaching, lesson maintenance, workshop operations, and/or community building.
 
 Our mentors are experienced instructors who are committed to helping others become engaged members of the Carpentries community. Mentors have told us they really enjoy being involved with this program. 
                    
