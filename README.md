@@ -55,10 +55,9 @@ For a complete summary of different mentoring roles, see [this page](roles/READM
 
 * Erin Becker
 
-## Steering Committee Liaison
+## Executive Council Liaison
 
-* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
-* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
+* TBA
 
 ## Staff Liaison
 
@@ -81,7 +80,7 @@ For a complete summary of different mentoring roles, see [this page](roles/READM
 * Paula Andrea Martinez
 * Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
 * Maneesha Sane
-* Marian Schmidt (Co-chair, @marschmi, [@micro_marian](https://twitter.com/micro_marian))
+* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
 * Raniere Silva
 * Juan Steyn
 * Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
