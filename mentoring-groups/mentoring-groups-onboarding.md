@@ -5,7 +5,10 @@ The strategy below was outlined by [Kari L. Jordan](https://github.com/kariljord
 
 See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for more information about how we transitioned the mentoring groups from its pilot phase.
 
-## Mentoring Groups Outline
+## Schedule
+[2018-2019](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/2018-2019-schedule.md)
+
+## Outline
 
 + [Outline](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md)
 
@@ -88,6 +91,19 @@ ____________________________________________________________________________
 | Review and contribute to Mentoring Resources | [Mentoring Resources](https://github.com/carpentries/mentoring/tree/master/mentoring-groups/resources)  |
 | Review Past Mentoring Showcase Presentations | [Past Mentoring Showcase Presentations](https://drive.google.com/drive/folders/1Gybuvqa-Srwlz99Go5n5vfBvJ8V8lJcM)  |
 
+# Guidelines for Certificates
+
+## Mentors
+- Attend a mentoring onboarding session.
+- Attend regular meetings with your mentees.
+- Attend the virtual showcase.
+- Attend the power check-in.
+- Complete the post-program survey.
+
+## Mentees
+- Attend at least two mentoring meetings.
+- Attend the virtual showcase.
+- Complete the post-program survey.
 ____________________________________________________________________________
 ### Updates
 + On July 18, 2018, Kari L. Jordan revised the mentor and mentee applications such that they select their timezone **and** timeslots when they are available to meet. This approach will be used for the next round of mentoring so that it's easier to schedule meeting times.
