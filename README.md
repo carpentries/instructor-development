@@ -57,7 +57,7 @@ For a complete summary of different mentoring roles, see [this page](roles/READM
 
 ## Executive Council Liaison
 
-* TBA
+* Raniere Silva
 
 ## Staff Liaison
 
