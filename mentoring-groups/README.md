@@ -6,6 +6,7 @@ Mentees will be added to mentoring groups as applications are received. Mentor a
 ## Current Cycle Dates: August 13 - November 8, 2018  
 + Applications Open: August 13th
 + Info Session: August 20th
++ Applications Close: August 31st
 + Mentees Placed In [Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) beginning September 5th
 + Mentor Onboarding: September 6th
 + Mentor Power Check-In: October 11th  
