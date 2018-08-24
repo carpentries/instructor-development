@@ -2,7 +2,7 @@
 
 ## Purpose and Scope
 
-The Committee established in 2015 (originally the Mentoring Subcommittee) to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. In August 2018, the group was renamed to the Instructor Development Committee to reflect the wider focus of its activity and to avoid confusion with the Mentoring Groups Program.
+The Committee was established in 2015 (originally the Mentoring Subcommittee) to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. In August 2018, the group was renamed to the Instructor Development Committee to reflect the wider focus of its activity and to avoid confusion with the Mentoring Groups Program.
 
 ## What We Do
 
