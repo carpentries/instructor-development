@@ -23,4 +23,4 @@ Click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentoring
 Please visit this [Etherpad](http://pad.software-carpentry.org/mentorship-info) to sign up to attend.
 
 ## Contact
-For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Mentoring Subcommittee meeting, sign up via this [Etherpad](http://pad.software-carpentry.org/scf-mentoring). 
+For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](http://pad.software-carpentry.org/scf-mentoring). 
