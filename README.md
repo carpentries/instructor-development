@@ -1,8 +1,8 @@
-# The Mentoring Subcommittee
+# The Instructor Development Committee
 
 ## Purpose and Scope
 
-The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges.
+The Committee established in 2015 (originally the Mentoring Subcommittee) to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. In August 2018, the group was renamed to the Instructor Development Committee to reflect the wider focus of its activity and to avoid confusion with the Mentoring Groups Program.
 
 ## What We Do
 
@@ -20,9 +20,10 @@ See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-g
 
 ## Mentoring Committee Meetings
 
-The mentoring committee itself meets regularly to evaluate current activities, and propose
+The Instructor Development Committee itself meets on the third Monday of every month to 
+evaluate current activities, and propose
 new activities.  Minutes of past meetings are available [here](minutes).  All community
-members are welcome to attend mentoring committee meetings.  Similarly, we welcome
+members are welcome to attend these meetings.  Similarly, we welcome
 anyone who is interested in joining up and helping out!
 
 To attend our next meeting, visit [this etherpad][meetings].
@@ -30,7 +31,7 @@ To attend our next meeting, visit [this etherpad][meetings].
 ## Join Us!
 
 Any Software or Data Carpentry community member is welcome to participate in
-Mentoring committee activities and/or join the committee itself!  Some different
+Instructor Development Committee activities and/or join the committee itself!  Some different
 options for getting involved are given below.
 
 I would like to:
@@ -44,9 +45,9 @@ I would like to:
 - help lead discussion sessions among instructors
 	- Join the [discussion host mailing list][host-mailing-list] and sign up to host, co-host, or observe
 	a discussion on [this etherpad][discussion]
-- support current mentoring activities or initiate new ones OR
-- join the mentoring committee
-	- Sign up for the mentoring committee [mailing list][comm-mailing-list] and attend the next mentoring committee meeting (scheduled on [this etherpad](meetings)
+- support current mentoring/development activities or initiate new ones OR
+- join the Instructor Development Committee
+	- Sign up for the Instructor Development Committee [mailing list][comm-mailing-list] and attend the next meeting (scheduled on [this etherpad](meetings)
 
 For a complete summary of different mentoring roles, see [this page](roles/README.md).
 
