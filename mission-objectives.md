@@ -1,11 +1,11 @@
 # Mission
 
-The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
+The Committee was established in 2015 (originally the Mentoring Subcommittee) to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. In August 2018, the group was renamed to the Instructor Development Committee to reflect the wider focus of its activity and to avoid confusion with the Mentoring Groups Program.
 
 # Objectives
 
 * Host [weekly instructor discussion sessions](http://pad.software-carpentry.org/instructor-discussion) to help support soon-to-be instructors going through checkout and create a space where upcoming and recent instructors of workshops can share their thoughts and perspectives going into and coming out of a workshop. 
-* Host [monthly committee meetings](http://pad.software-carpentry.org/scf-mentoring) to check in on instructor discussion sessions, get updates on other carpentries committees, and brainstorm new directions and happenings of the mentoring committee. 
+* Host [monthly committee meetings](http://pad.software-carpentry.org/scf-mentoring) to check in on instructor discussion sessions, get updates on other Carpentries committees, and brainstorm new directions and happenings of the Instructor Development Committee. 
 
 # Activities
 

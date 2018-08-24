@@ -1,12 +1,12 @@
-# Mentoring Subcommittee Roles and Membership
+# Instructor Development Committee Roles and Membership
 
 ## Roles
 
-There are multiple ways to be involved with the mentoring committee and its activities.  
+There are multiple ways to be involved with the Instructor Development Committee and its activities.  
 
-### Participation in Mentoring Activities
+### Participation in Instructor Development Activities
 
-Any SWC/DC community member can participate in mentoring committee activities in 
+Any SWC/DC community member can participate in Instructor Development Committee activities in 
 the following ways: 
 
 * [Discussion Session Participant](roles/discussion-participants.md)
@@ -20,15 +20,14 @@ the following ways:
 	Software and Data Carpentry lessons, organizing workshops, and participation in the 
 	Software and Data Carpentry communities.  
 
-Participating in these events does not require that you join the mentoring 
-committee as a member.  
+Participating in these events does not require that you join the Committee as a member.  
 
 ### Mentoring Committee Membership
 
-For those interested in becoming involved with the committee and helping organize 
-and run the above (and new!) efforts, we welcome new mentoring committee members.  
+For those interested in becoming involved with the Committee and helping organize 
+and run the above (and new!) efforts, we welcome new Instructor Development Committee members.  
 
-Mentoring committee membership is open to anyone who is: 
+Instructor Development Committee membership is open to anyone who is: 
 
 * a certified instructor
 * in the process of becoming certified (have attended instructor training 
@@ -36,38 +35,37 @@ or be confirmed to attend an upcoming training)
 * active in the SWC/DC community as a helper, instructor, or contributor
 
 Membership consists of: 
-* joining the [mentoring committee mailing list][comm-mailing-list]
-* attending at least one mentoring committee meeting every 2-4 months
-* contributing to the mentoring committee's efforts in some way, including
+* joining the [Instructor Development Committee mailing list][comm-mailing-list]
+* attending at least one meeting of the Committee every 2-4 months
+* contributing to the Committee's efforts in some way, including
 	* taking on an official committee role (see below)
-	* participating in mentoring committee activities (see above)
+	* participating in Instructor Development Committee activities (see above)
 	* spearheading a task force or starting a new committee
 	* ...or something else!  
 
-All mentoring committee members are expected to abide by the [Code of Conduct](https://software-carpentry.org/conduct/).   
+All members of the Instructor Development Committee are expected to abide by the [Code of Conduct](https://software-carpentry.org/conduct/).   
 
 See the [README](README.md) for a list of current members.  
 
-### Mentoring Committee Positions
+### Instructor Development Committee Positions
 
 These roles are filled by [members](#mentoring-committee-membership) of the 
-mentoring subcommittee, in order to support 
-the operation and activities of the subcommittee.  
+Committee, in order to support its operation and activities.  
 
 * [Chair and Vice-Chair](roles/chair-and-vice.md)
-	- Coordinate mentoring efforts, organize and lead mentoring committee meetings
+	- Coordinate mentoring efforts, organize and lead Instructor Development Committee meetings
 * [Secretary](roles/secretary.md)
-	- Take notes in mentoring committee meetings, submit official minutes
+	- Take notes in Instructor Development Committee meetings, submit official minutes
 * [Steering Committee Liaison](roles/liaison.md)
-	- Facilitate communication between the steering committee and mentoring committee
+	- Facilitate communication between the Steering Committee and the Instructor Development Committee
 * [Discussion Coordinators](roles/discussion-coordinators.md)
 	- Coordinate volunteer hosts for instructor discussion sessions, contact instructors
 
 Current members in these roles are listed in the [README](README.md)
 
-## Choosing Mentoring Committee Member Roles
+## Choosing Instructor Development Committee Member Roles
 
-Mentoring committee positions are to be filled yearly, in March.  Members 
+Instructor Development Committee positions are to be filled yearly, in March.  Members 
 can volunteer for any role.  Roles are filled in the order listed 
 above, by a majority vote.  Whenever possible roles should
 be filled by unique people; however, if there are not enough volunteers, 
