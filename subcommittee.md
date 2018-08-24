@@ -1,4 +1,4 @@
-# Mentoring Subcommittee
+# Instructor Development Committee
 
 * [SWC webpage](http://software-carpentry.org/join/subcom/mentoring/)
 * [governance](https://github.com/swcarpentry/board/tree/master/subcommittees/mentoring)
