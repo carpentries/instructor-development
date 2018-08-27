@@ -10,20 +10,20 @@ checklists for the hosts and discussion organizer [here](checklists-discussion-s
     where instructors share experiences from teaching and
     obtain information while preparing to teach.
 
--   **Host**: member of the Mentoring Subcommittee
-    who facilitates a discussion session.
+-   **Host**: experienced Carpentries instructor (often a member of the Instructor Development 
+    Committee) who facilitates a discussion session.
 
 ## Motivation
 
 1.  The Carpentries are community based projects and the community needs opportunity to interact.
 
-2.  The Carpentries believe in jugyokenkyu, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
+2.  The Carpentries believe in _jugyokenkyu_, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
 
 3. The Carpentries are continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
 ## Before the meeting
 
-The Mentoring Subcommittee is responsible for organizing
+The Instructor Development Committee is responsible for organizing
 the instructor discussion sessions so that
 
 -   each month has at least eight discussion sessions,
@@ -48,7 +48,7 @@ Email invitations should be sent to three groups of instructors:
   attend a discussion session to complete their [instructor checkout](https://carpentries.github.io/instructor-training/checkout/)
 
 The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
-The chair of the mentoring subcommittee, as well as all members of the Carpentries Steering committee, 
+The chair of the Instructor Development Committee, as well as all members of the Carpentries Steering committee, 
 should have access to AMY. Newly trained instructors should be directed to instructor discussion sessions 
 following completion of instructor training.  
 
@@ -75,12 +75,12 @@ The agenda should be similar to the following:
     - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
     - For small typos, submit pull request to appropriate lesson
 
-Based on discussion among the mentoring committee, temporary questions may be 
+Based on discussion among the Instructor Development Committee, temporary questions may be 
 added to the agenda for 
 a month of sessions, in order to collect data on specific issues.  
 
 Each instructor discussion session session must have at least one host
-from the mentoring subcommittee (although two hosts are preferred). 
+from the Instructor Development Committee (although two hosts are preferred). 
 
 The **host** is responsible for: 
 
@@ -110,7 +110,7 @@ discretion of the host whether to split the group.
 
 - [ ] **Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)**
 	- *Note:* Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
-	- This questionnaire will automatically send an email to checkouts@carpentries.org (and the mentoring co-chairs) to show that the newly trained instructors participating as a part of the checkout procedure were engaged and could answer target questions described in the checkout procedure.
+	- This questionnaire will automatically send an email to checkouts@carpentries.org (and the Instructor Development Committee co-chairs) to show that the newly trained instructors participating as a part of the checkout procedure were engaged and could answer target questions described in the checkout procedure.
 - [ ] **Archive** the etherpad by clicking on the star in the top right corner. This will save a copy of the etherpad in its current state.
 - [ ] **Clean** the etherpad for the next user by deleting all the community added comments and change the dates to prepare the etherpad for the next session.
 - [ ] *Optional:* Write a blog post summarizing topics discussed, including (but not limited to) the following: implementation of new lessons, recurring questions about or problems while teaching, and general strategies for instructing workshops. [This template](template-blog-about-debriefing-session.md) can be used as the start point for the blog post.
