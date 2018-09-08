@@ -16,7 +16,7 @@ Mentors will guide small groups of no more than five mentees toward a particular
 + Mentoring Groups Virtual Showcase: November 8th
 
 # Carpentries Mentoring Groups
-Applications for both mentors and mentees **are open**. [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72) are open to instructors who have taught less than two workshops. Mentees will be added to mentoring groups as applications are received. Mentor applications are received ongoing, but mentor onboarding occurs every 3-4 months.
+Applications for both mentors and mentees **are open**. [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2) are open to certified instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72) are open to community members who have taught less than two workshops. Mentees will be added to mentoring groups as applications are received. Mentor applications are received ongoing, but mentor onboarding occurs every 3-4 months.
 ____________________________________________________________________________
 
 ## Carpentries Mentoring Groups Highlights  
