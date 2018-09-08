@@ -16,8 +16,8 @@ See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for 
 
 + **Recruitment**
   + Mentoring groups are open to any individual who has completed [Carpentries instructor training](https://carpentries.github.io/instructor-training/).
-  + Individuals who have taught fewer than two workshops (or no workshops at all yet) are invited as mentees.
-  + Individuals who have taught three or more workshops are invited to lead mentoring groups.
+  + Community members who have taught fewer than two workshops (or no workshops at all yet) are invited as mentees.
+  + Certified Carpentries instructors who have taught three or more workshops are invited to lead mentoring groups.
 + **Activities & Timing**
   + Mentoring groups run for between eight and 12 weeks.
   + Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
