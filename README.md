@@ -18,7 +18,7 @@ Mentoring groups support instructors by matching them with a personal mentor. Me
 
 See [this page](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md) for a full outline of the program.
 
-## Mentoring Committee Meetings
+### Committee Meetings
 
 The Instructor Development Committee itself meets on the third Monday of every month to 
 evaluate current activities, and propose
