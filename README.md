@@ -101,7 +101,7 @@ _* membership list based on attendance of ≥2 subcommittee meetings since Octob
 * Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
 * Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
 
-[discussion]: http://pad.software-carpentry.org/instructor-discussion
-[host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
-[comm-mailing-list]: http://lists.software-carpentry.org/listinfo/mentoring
-[meetings]: http://pad.software-carpentry.org/scf-mentoring
+[discussion]: https://pad.carpentries.org/community-discussions
+[host-mailing-list]: https://carpentries.topicbox.com/groups/discussion-hosts
+[comm-mailing-list]: https://carpentries.topicbox.com/groups/instructor-development
+[meetings]: https://pad.carpentries.org/instructor-development
