@@ -43,7 +43,7 @@ Membership consists of:
 	* spearheading a task force or starting a new committee
 	* ...or something else!  
 
-All members of the Instructor Development Committee are expected to abide by the [Code of Conduct](https://software-carpentry.org/conduct/).   
+All members of the Instructor Development Committee are expected to abide by the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).   
 
 See the [README](README.md) for a list of current members.  
 
