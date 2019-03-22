@@ -19,4 +19,4 @@ Click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentoring
 Please visit this [Etherpad](http://pad.carpentries.org/mentoring-groups) to sign up to attend.
 
 ## Contact
-For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](https://pad.carpentries.org/instructor-development). 
+For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:serahrono@carpentries.org) Serah Rono. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](https://pad.carpentries.org/instructor-development). 

@@ -37,4 +37,4 @@ to teach skills and help people build local communities (run in 10 cities worldw
 #### Chatrooms
 
 - [Library Carpentry chatroom](https://gitter.im/LibraryCarpentry/Lobby) - this was a central tool in creating this community as it allowed asynchronous community engagement across different time zones. You can add a free Gitter chatroom to any GitHub repository, e.g. create a local community building repo and add chat functionality through Gitter.
-- [Software Carpentry slack channel](https://swc-slack-invite.herokuapp.com/) - this is the Software Carpentry general slack channel for community members. It is possible to set up your own local slack group to foster local networking. 
+- [The Carpentries slack channel](https://swc-slack-invite.herokuapp.com/) - this is the Software Carpentry general slack channel for community members. It is possible to set up your own local slack group to foster local networking. 
