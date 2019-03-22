@@ -24,4 +24,4 @@ If you don't fall into any of those categories, add your name at the end of
 the sign-up list for a particular call.  
 
 [discussion-etherpad]: http://pad.software-carpentry.org/instructor-discussion
-[checkout]: http://swcarpentry.github.io/instructor-training/checkout/
+[checkout]: https://carpentries.github.io/instructor-training/checkout
