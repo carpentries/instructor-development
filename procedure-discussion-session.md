@@ -32,7 +32,7 @@ the instructor discussion sessions so that
 
 -   each session has at least one host (preferably two) to conduct the discussion.
 
-Meeting scheduling will be coordinated via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meeting scheduling will be coordinated via the [community discussions etherpad](http://pad.carpentries.org/community-discussions).
 
 The dates of instructor discussion sessions are also listed
 in the Carpentries community calendar,
@@ -54,7 +54,7 @@ following completion of instructor training.
 
 ## During the meeting
 
-Meetings will be hosted via the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meetings will be hosted via the [community discussions etherpad](http://pad.carpentries.org/community-discussions).
 
 The agenda should be similar to the following:
 
@@ -85,7 +85,7 @@ from the Instructor Development Committee (although two hosts are preferred).
 The **host** is responsible for: 
 
 - hosting the meeting and facilitating discussion using the agenda described 
-[this instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion). 
+[this community discussions etherpad](http://pad.carpentries.org/community-discussions). 
 
 - maintaining focus on the main goal of the session, which is to share ideas and keep instructors excited about teaching.
 
