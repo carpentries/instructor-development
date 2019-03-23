@@ -32,7 +32,7 @@ the instructor discussion sessions so that
 
 -   each session has at least one host (preferably two) to conduct the discussion.
 
-Meeting scheduling will be coordinated via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meeting scheduling will be coordinated via the [community discussions etherpad](http://pad.carpentries.org/community-discussions).
 
 The dates of instructor discussion sessions are also listed
 in the Carpentries community calendar,
@@ -47,14 +47,14 @@ Email invitations should be sent to three groups of instructors:
 - folks who have recently completed instructor training and need to
   attend a discussion session to complete their [instructor checkout](https://carpentries.github.io/instructor-training/checkout/)
 
-The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
+The contact information for the first two groups is available in [AMY](https://amy.carpentries.org/workshops/). 
 The chair of the Instructor Development Committee, as well as all members of the Carpentries Steering committee, 
 should have access to AMY. Newly trained instructors should be directed to instructor discussion sessions 
 following completion of instructor training.  
 
 ## During the meeting
 
-Meetings will be hosted via the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meetings will be hosted via the [community discussions etherpad](http://pad.carpentries.org/community-discussions).
 
 The agenda should be similar to the following:
 
@@ -85,7 +85,7 @@ from the Instructor Development Committee (although two hosts are preferred).
 The **host** is responsible for: 
 
 - hosting the meeting and facilitating discussion using the agenda described 
-[this instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion). 
+[the community discussions etherpad](http://pad.carpentries.org/community-discussions). 
 
 - maintaining focus on the main goal of the session, which is to share ideas and keep instructors excited about teaching.
 

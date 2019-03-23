@@ -5,7 +5,7 @@ The Carpentries' community is invited to participate in a Virtual Showcase of ou
   - __Why attend:__ Be inspired by the projects of __your__ global community members! Be empowered to start a new project, contribute to a lesson, or prepare to teach a lesson. Explore the benefits of mentoring and being a part of a global community.
 
 ## Logistics
-There will be two showcases to accommodate multiple timzeones:
+There will be two showcases to accommodate multiple timezones:
 
 __Showcase #1__  
 November 8, 2018 at 1400 UTC.   
@@ -16,7 +16,7 @@ November 8, 2018 at 2300 UTC.
 Click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentoring+Groups+Virtual+Showcase+2&iso=20181108T23&p1=1440&ah=1) for your timezone.
 
 ## Sign-Up
-Please visit this [Etherpad](http://pad.software-carpentry.org/mentoring-groups) to sign up to attend.
+Please visit this [Etherpad](http://pad.carpentries.org/mentoring-groups) to sign up to attend.
 
 ## Contact
-For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](http://pad.software-carpentry.org/scf-mentoring). 
+For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:serahrono@carpentries.org) Serah Rono. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](https://pad.carpentries.org/instructor-development). 

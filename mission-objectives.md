@@ -4,8 +4,8 @@ The Committee was established in 2015 (originally the Mentoring Subcommittee) to
 
 # Objectives
 
-* Host [weekly instructor discussion sessions](http://pad.software-carpentry.org/instructor-discussion) to help support soon-to-be instructors going through checkout and create a space where upcoming and recent instructors of workshops can share their thoughts and perspectives going into and coming out of a workshop. 
-* Host [monthly committee meetings](http://pad.software-carpentry.org/scf-mentoring) to check in on instructor discussion sessions, get updates on other Carpentries committees, and brainstorm new directions and happenings of the Instructor Development Committee. 
+* Host [weekly instructor discussion sessions](http://pad.carpentries.org/community-discussions) to help support soon-to-be instructors going through checkout and create a space where upcoming and recent instructors of workshops can share their thoughts and perspectives going into and coming out of a workshop. 
+* Host [monthly committee meetings]( https://pad.carpentries.org/instructor-development) to check in on instructor discussion sessions, get updates on other Carpentries committees, and brainstorm new directions and happenings of the Instructor Development Committee. 
 
 # Activities
 

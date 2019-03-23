@@ -23,7 +23,7 @@ See [this blog post](http://www.datacarpentry.org/blog/mentorship-wrap-up/) for 
   + Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
   + Mentors and mentees will be asked to complete a short [survey](https://goo.gl/forms/BOxgiKy99kVec07j2) halfway through the 8-12 week period.
   + The 8-12 week period will end with a virtual showcase.
-  + Mentors and mentees will be asked to complete asecond short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
+  + Mentors and mentees will be asked to complete a second short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
 + **Exposure**
   + A mentoring page will be added to The Carpentries' [website](https://carpentries.org) with information on how to join a mentoring group.
   + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of Kari Jordan.
@@ -46,7 +46,7 @@ We are looking forward to seeing you at an information session!
                    
 Sincerely,  
 Kari L. Jordan   
-[1] http://pad.software-carpentry.org/mentoring-groups  
+[1] http://pad.carpentries.org/mentoring-groups  
 [2] https://goo.gl/forms/ADBs9i21CRNbtOwF2   
 
 ____________________________________________________________________________
@@ -72,7 +72,7 @@ We look forward to having you in the program!
 Regards,  
 Kari L. Jordan   
 [1] https://goo.gl/forms/75e2dyOoEZaTRtL63  
-[2] http://pad.software-carpentry.org/mentoring-groups   
+[2] http://pad.carpentries.org/mentoring-groups   
 ____________________________________________________________________________
 
 ## Mentor Onboarding 
@@ -81,11 +81,11 @@ ____________________________________________________________________________
 |---|---|
 | Complete Mentor Application  | [Mentor Application](https://docs.google.com/forms/d/e/1FAIpQLSfXySJkJrl4uVQyyUmohBnBGlJMfPj7Mis0JqU-awOHvGug2A/viewform)  |
 | Review Program Outline | [Program Outline](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md)|
-| Attend Mentor Onboarding  |[Etherpad Sign-Up](http://pad.software-carpentry.org/carpentries-mentors)
+| Attend Mentor Onboarding  |[Etherpad Sign-Up](https://pad.carpentries.org/carpentries-mentors)
 | Review Mentor Onboarding Recording (optional) | [Mentor Onboarding Recording](https://carpentries.zoom.us/recording/share/_wbDBrHDTD_IBp4Gqnso-q6-GBVrhCV2w12OzpDIk5ywIumekTziMw)   |
 | Review Mentor Onboarding Presentation (optional) | [Mentor Onboarding Presentation](https://docs.google.com/presentation/d/1QSA-lLtWPDLD4uewe2ekl3fd9CYCB-NGSFAvmUKu6Co/edit?usp=sharing) |
 | Read Mentor Agreement | [Mentor Agreement](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/mentor-agreement.md)  
-| Review Mentoring Session Checklist  | [Mentoring Session Checklist](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/resources/mentoring-session-checklist.md)  |
+| Review Mentoring Groups Outline | [Mentoring Groups Outline](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentoring-groups-outline)  |
 | Send introductory e-mail to Mentees |
 | Prepare Goal Setting for Mentees | [Goal Setting](http://www.hr.virginia.edu/uploads/documents/media/Writing_SMART_Goals.pdf)|
 | Review and contribute to Mentoring Resources | [Mentoring Resources](https://github.com/carpentries/mentoring/tree/master/mentoring-groups/resources)  |
@@ -108,5 +108,5 @@ ____________________________________________________________________________
 ### Updates
 + On July 18, 2018, Kari L. Jordan revised the mentor and mentee applications such that they select their timezone **and** timeslots when they are available to meet. This approach will be used for the next round of mentoring so that it's easier to schedule meeting times.
 
-+ On March 8, 2018, Kari L. Jordan updated the mentoring groups sign-up process. Kari created [this Etherpad](http://pad.software-carpentry.org/mentoring-groups) to assign mentees to mentoring groups. For a synopsis of the previous mentoring group round, see [this blog post](http://www.datacarpentry.org/blog/Mentoring-Groups-Virtual-Showcase/).
++ On March 8, 2018, Kari L. Jordan updated the mentoring groups sign-up process. Kari created [this Etherpad](http://pad.carpentries.org/mentoring-groups) to assign mentees to mentoring groups. For a synopsis of the previous mentoring group round, see [this blog post](http://www.datacarpentry.org/blog/Mentoring-Groups-Virtual-Showcase/).
 

@@ -30,7 +30,7 @@ To attend our next meeting, visit [this etherpad][meetings].
 
 ## Join Us!
 
-Any Software or Data Carpentry community member is welcome to participate in
+Any Software, Library or Data Carpentry community member is welcome to participate in
 Instructor Development Committee activities and/or join the committee itself!  Some different
 options for getting involved are given below.
 

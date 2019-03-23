@@ -6,7 +6,7 @@
 
 Discussion sessions are organized and conducted through this etherpad: 
 
-[http://pad.software-carpentry.org/instructor-discussion](http://pad.software-carpentry.org/community-discussions)
+[http://pad.carpentries.org/community-discussions](http://pad.carpentries.org/community-discussions)
 
 ## Leading the Discussion
 - [ ] Sign on as close to the start time as you can.  
