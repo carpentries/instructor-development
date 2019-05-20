@@ -6,15 +6,6 @@ Mentoring Groups support the community in a variety of ways. Whether you are a n
 
 Mentors will guide small groups of no more than five mentees toward a particular outcome. Outcomes might be anything from teaching a specific lesson (i.e. Version Control with Git) to making a meaningful contribution to one of our lessons.  
 
-## Current Cycle Dates: August 13 - November 8, 2018  
-+ Applications Open: August 13th
-+ Info Session: August 20th [Sign Up](https://pad.carpentries.org/scf-mentoring)
-+ Applications Close: August 31st
-+ Mentees Placed In [Mentoring Group](http://pad.software-carpentry.org/mentoring-groups) beginning September 5th
-+ Mentor Onboarding: September 6th
-+ Mentor Power Check-In: October 11th  
-+ Mentoring Groups Virtual Showcase: November 8th
-
 # Carpentries Mentoring Groups
 Applications for both mentors and mentees **are open**. [Mentor applications](https://goo.gl/forms/5fPjKzdEJ1DmdyMY2) are open to certified instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/mRtL2YNZ9YyPNVC72) are open to community members who have taught less than two workshops. Mentees will be added to mentoring groups as applications are received. Mentor applications are received ongoing, but mentor onboarding occurs every 3-4 months.
 ____________________________________________________________________________
