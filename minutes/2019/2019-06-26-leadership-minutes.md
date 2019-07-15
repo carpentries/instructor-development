@@ -32,9 +32,9 @@ Project suggestion 5: Figuring out ways to train instructors in lessons they don
 
 
 ### Project suggestion 1 goals, strategies and deadlines
-- Everyone needs to have access to the data (form results)
-- Link: https://docs.google.com/spreadsheets/d/18vxxDjz74ZsWX7WdEe8P27b3V4PDmEbClrmqfYfBttM/edit?ts=5d07baf4#gid=872227524
-- https://github.com/carpentries/instructor-development
+- Everyone needs to have access to the discussion sesion form
+ - For access to form results [get in touch with Kari](mailto:kariljordan@carpentries.org)
+- Instructor Development Etherpad: https://github.com/carpentries/instructor-development
 - Take a snapshot and clean up the data
 - Make project folder / repo (private - or code is public but not the data)
 - Questions we want to ask about the data
