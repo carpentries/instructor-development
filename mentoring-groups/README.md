@@ -13,7 +13,7 @@ Mentees will be added to mentoring groups as applications are received. Mentor a
 + August 29, 2019 Mentor Power Check-In
   + Topic of discussion: organising workshops. See [session recording](https://youtu.be/-bh_h7oKJuU)
 + October 15, 2019 Virtual Showcase
-  + Mentoring Groups Virtual Showcase: November 8th
++ Mentoring Groups Virtual Showcase: November 8th
   + [watch first virtual showcase](https://youtu.be/Y-dvLm6zgaU)
   + [watch second virtual showcase](https://youtu.be/U87YkA81eZY)
 
