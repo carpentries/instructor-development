@@ -11,7 +11,7 @@ Mentees will be added to mentoring groups as applications are received. Mentor a
 + June 17, 2019 Mentoring Groups Matched
 + June 20, 2019 Mentor Onboarding
 + August 29, 2019 Mentor Power Check-In
-  + Topic of discussion: organising workshops. See [session recording](https://youtu.be/-bh_h7oKJuU_
+  + Topic of discussion: organising workshops. See [session recording](https://youtu.be/-bh_h7oKJuU)
 + October 15, 2019 Virtual Showcase
   + Mentoring Groups Virtual Showcase: November 8th
   + [watch first virtual showcase](https://youtu.be/Y-dvLm6zgaU)
