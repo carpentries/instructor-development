@@ -29,20 +29,20 @@ To attend our next meeting, visit [this etherpad][meetings].
 
 Any Carpentries community member is welcome to participate in Instructor Development Committee activities and/or join the committee! Some options for getting involved are provided below.
 
-- join a small group to receive mentoring from experienced instructors OR
+<!--- - join a small group to receive mentoring from experienced instructors OR
 - mentor new instructors
 	- Join a mentoring group by contacting [Marco Chiapello](mailto:chiapello.m@gmail.com).
-	- For a complete summary of different mentoring roles, see [this page](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentoring-groups-roles).
+	- For a complete summary of different mentoring roles, see [this page](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentoring-groups-roles).--->
 - discuss workshop experiences with other instructors OR ask questions of other instructors as you prepare to teach
 	- Attend an instructor discussion session by signing up on [this etherpad][discussion].
 	- Sign up to host a Themed Discussion Session or #CarpentriesConversation by completing [this form](https://forms.gle/W39ckwAT8njKyUA87).
-	- Get more information about Community Discussions by contacting [Martin Dreyer](mailto:amfdrey@gmail.com).
+	- Get more information about Community Discussions by contacting [The Carpentries Community Development Team](mailto:community@carpentries.org).
 - help lead discussion sessions among instructors
 	- Join the [discussion host mailing list][host-mailing-list] and sign up to host, co-host, or observe
 	a discussion on [this etherpad][discussion]
-- support current mentoring/development activities or initiate new ones 
-- join the Instructor Development Committee
-	- Sign up for the Instructor Development Committee [mailing list][comm-mailing-list] and attend the next meeting (scheduled on [this etherpad](meetings).
+- support current mentoring/development activities or initiate new ones. Contact [The Carpentries Community Development Team](mailto:community@carpentries.org) to get started.
+- join the Instructor Development Committee meetings
+	- Sign up for the Instructor Development Committee [mailing list][comm-mailing-list] and look out for the next meeting (scheduled on [this etherpad](meetings).
 
 ## Training Committee Liaison
 
@@ -54,10 +54,9 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 
 ## Staff Liaisons
 
-* Kari L. Jordan (@kariljordan, [@DrKariLJordan](https://twitter.com/DrKariLJordan))
 * Serah Rono (@serarono, [@SeraRono](https://twitter.com/SeraRono))
 
-## Instructor Development Committee Leadership Team
+## Outgoing Instructor Development Committee Leadership Team ( 2019 - 2020)
 * Sarah Stevens, Co-Chair
 * Arindam Basu, Co-Chair
 * Kemi Megbowon, Secretary
