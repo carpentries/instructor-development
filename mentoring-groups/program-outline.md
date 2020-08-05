@@ -84,4 +84,4 @@ Groups are encouraged to set [SMART](http://www.hr.virginia.edu/uploads/document
 + Finish slide for mentoring group showcase. Attend mentoring group showcase.  
 
 ## Contact Information
-If you have questions about the mentoring groups please contact [Kari L. Jordan](mailto:kariljordan@carpentries.org?subject=Mentoring%20Groups).
+If you have questions about the mentoring groups please contact [Serah Rono](mailto:serah@carpentries.org?subject=Mentoring%20Groups).
