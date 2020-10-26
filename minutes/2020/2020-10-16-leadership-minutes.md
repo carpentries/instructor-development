@@ -73,15 +73,25 @@ __Time:__ 1100 UTC
 
 * Annajiat:
   - Does trainer development fall under our responsibility?
+    - Serah: No.  
   - Do we join in trainers meeting and work with them directly?
+    - Serah: No. [Trainer meetings](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) are only for community members that have gone through trainer training, also known as [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html).
 
-* Yared: how can we know more about how our roles interact with each other
+* Yared: 
+  - how can we know more about how our roles interact with each other
+    - Serah: the Instructor Development section of The Carpentries handbook elaborates on each IDC Leader's role, that's a great first place to check.
+    - Attend the monthly checkins - next one is on November 13, and again on December 11
+    - Initiate async discussions in the shared IDC Leaders channel on Slack or the IDC Leaders mailing list to discuss ideas, opportunities for input from others, etc
+    - check in with Serah Rono, The Carpentries Core Team liaisons to IDC Leaders, in case you have any questions or encounter any challenges in carrying out your tasks.
 
 * Carol:
   - do I need to focus on demo discussions in addition to community discussions?
+    - Serah: No 
   - community discussions Etherpad is already populated
+    - Serah: In the months between April 2020 when the previous IDC Leaders' term came to an end and September 2020 when the current cohort of IDC leaders was onboarded, Angelique van Rensburg and Maneesha Sane from The Carpentries Core Team served as community discussion coordinators. They worked ahead of time to find discussion hosts for the rest of 2020, in order to save time and maximise on use ofresources. They are both aware that you (Carol) have now taken over this role, and Serah will make an email introduction so you can check in and gain historical context on work done so far, as well as what to prioritise in the coming weeks. 
 
 * Provide mentoring planning notes in the etherpad
+ - Serah: [Here is all the information available on mentoring groups in The Carpentries](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html), as well as a detailed workflow on how to go about setting up new cycles of Mentoring Groups in The Carpentries. A note for our mentoring co-chairs - Katherine Simeon and Samar Elsheikh - use the workflow document as a guiding post, and feel free to tweak sections of it in a way that you both think will benefit our global community of instructors maximally.
 
 ### Suggestions for how to run cohort activities in the coming months ( 15 min)
 
