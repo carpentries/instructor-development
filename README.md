@@ -54,8 +54,18 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 
 ## Staff Liaisons
 
-* Serah Rono (@serarono, [@SeraRono](https://twitter.com/SeraRono))
-
+* Serah Rono (@serahrono, [@SerahRono](https://twitter.com/SerahRono))
+   
+## Instructor Development Committee Leadership Team (2020-2021)
+* Annajiat Alim Rasel, Co-Chair  
+* Maria Prokofieva, Co-Chair  
+* Yared Abera, Communications Chair  
+* Samar Elsheikh, Mentoring Co-Chair   
+* Katherine Simeon, Mentoring Co-Chair  
+* Carol Fadeke, Discussion Chair   
+* Rohit Goswami, Special Projects Chair   
+* Secretary - Rotating Position  
+  
 ## Outgoing Instructor Development Committee Leadership Team ( 2019 - 2020)
 * Sarah Stevens, Co-Chair
 * Arindam Basu, Co-Chair
