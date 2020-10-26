@@ -54,7 +54,7 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 
 ## Staff Liaisons
 
-* Serah Rono (@serarono, [@SeraRono](https://twitter.com/SeraRono))
+* Serah Rono (@serahrono, [@SerahRono](https://twitter.com/SerahRono))
    
 ## Instructor Development Committee Leadership Team (2020-2021)
 * Annajiat Alim Rasel, Co-Chair  
