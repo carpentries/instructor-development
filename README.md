@@ -44,17 +44,10 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 - join the Instructor Development Committee meetings
 	- Sign up for the Instructor Development Committee [mailing list][comm-mailing-list] and look out for the next meeting (scheduled on [this etherpad](meetings).
 
-## Training Committee Liaison
-
-* Vacant
-
-## Executive Council Liaison
-
-* Vacant
 
 ## Staff Liaisons
 
-* Serah Rono (@serahrono, [@SerahRono](https://twitter.com/SerahRono))
+* Sher! Hurt, [@SherAaronHurt](https://twitter.com/SherAaronHurt))
    
 ## Instructor Development Committee Leadership Team (2020-2021)
 * Annajiat Alim Rasel, Co-Chair  
