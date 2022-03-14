@@ -48,8 +48,19 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 ## Staff Liaisons
 
 * Sher! Hurt, [@SherAaronHurt](https://twitter.com/SherAaronHurt))
-   
-## Instructor Development Committee Leadership Team (2020-2021)
+
+## Instructor Development Committee Leadership Team (2022-2023)
+* Elnaz AmanzadehJajin, Chair
+* Jonathan Stoneman, Mentoring Co-Chair
+* Lynne Williams, Mentoring Co-Chair
+* Emmanuelle Rodrigues Nunes, Special Projects Chair
+* Rohit Goswami, Member at Large
+* Dianna Morganti, Member at Large
+* Annajiat Alim Rasel, Member at Large
+* Katherine Simeon, Member at Large
+* Abisola Regina Sholeye, Member at Large
+
+## Outgoing Instructor Development Committee Leadership Team (2020-2021)
 * Annajiat Alim Rasel, Co-Chair  
 * Maria Prokofieva, Co-Chair  
 * Yared Abera, Communications Chair  
@@ -59,17 +70,13 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 * Rohit Goswami, Special Projects Chair   
 * Secretary - Rotating Position  
   
-## Outgoing Instructor Development Committee Leadership Team ( 2019 - 2020)
-* Sarah Stevens, Co-Chair
-* Arindam Basu, Co-Chair
-* Kemi Megbowon, Secretary
-* Tobin Magle, Communications Chair
-* Marco Chiapello, Mentoring Chair
-* Martin Dreyer, Discussion Chair
-
 ## Past Instructor Development Committee Members
 
+* Arindam Basu
 * Erin Becker
+* Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
+* Marco Chiapello
+* Martin Dreyer
 * Jonah Duckles
 * Jamie Hadwin
 * Chris Hamm
@@ -79,24 +86,25 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 * Kari L. Jordan (@kariljordan, [@DrKariLJordan](https://twitter.com/DrKariLJordan))
 * Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
 * Mateusz Kuzak (@mkuzak, [@matkuzak](https://twitter.com/matkuzak))
+* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
 * Mark Laufersweiler
 * Tobin Magle
 * Paula Andrea Martinez ([@orchid00](https://twitter.com/orchid00))
 * Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
-* Maneesha Sane
-* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
-* Raniere Silva
-* Juan Steyn
-* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
-* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
-* Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
-* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
 * Sheldon McKay (@mckays630)
+* Kemi Megbowon
 * Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
 * Mariela Perignon (@mperignon)
 * Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
+* Maneesha Sane
 * Michael Sarahan (@msarahan)
+* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
+* Raniere Silva
+* Sarah Stevens
+* Juan Steyn
+* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
 * Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
+* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
 * Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
 
 _* membership list based on attendance of ≥2 subcommittee meetings since October 2016._
