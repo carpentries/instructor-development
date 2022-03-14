@@ -54,6 +54,7 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 * Jonathan Stoneman, Mentoring Co-Chair
 * Lynne Williams, Mentoring Co-Chair
 * Emmanuelle Rodrigues Nunes, Special Projects Chair
+* Yared Abera, Member at Large
 * Rohit Goswami, Member at Large
 * Dianna Morganti, Member at Large
 * Annajiat Alim Rasel, Member at Large
