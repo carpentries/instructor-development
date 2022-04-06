@@ -51,6 +51,7 @@ Any Carpentries community member is welcome to participate in Instructor Develop
 
 ## Instructor Development Committee Leadership Team (2022-2023)
 * Elnaz AmanzadehJajin, Chair
+* Alicia Cappello, Secretary
 * Jonathan Stoneman, Mentoring Co-Chair
 * Lynne Williams, Mentoring Co-Chair
 * Emmanuelle Rodrigues Nunes, Special Projects Chair
